@@ -5,11 +5,13 @@
 <!-- code_chunk_output -->
 
 - [Markdown Syntax](#markdown-syntax)
-  - [[[markdown_syntax_brief]]](#markdown_syntax_brief)
-- [การติดตั้งระบบ markdown บน vscode](#การติดตั้งระบบ-markdown-บน-vscode)
-    - [รวมคำสั่งที่ใช้ จัดการ Markdown ใน VSCode](#รวมคําสั่งที่ใช้-จัดการ-markdown-ใน-vscode)
+  - [markdown_syntax_brief](#markdown_syntax_briefmarkdown_syntax_briefmd)
+- [Config and Setup](#config-and-setup)
+  - [การติดตั้งระบบ markdown บน vscode](#การติดตั้งระบบ-markdown-บน-vscode)
+    - [การใช้ Markdown ใน VSCode](#การใช้-markdown-ใน-vscode)
   - [ข้อดีของการใช้ MarkDown](#ข้อดีของการใช้-markdown)
     - [ข้อสงสัย](#ข้อสงสัย)
+      - [GitHub Markdown Syntax](#github-markdown-syntax)
 
 <!-- /code_chunk_output -->
 #Markdown Syntax 
@@ -39,10 +41,14 @@
   - หรือ html ที่แยกจุดเปลี่ยนได้ยาก
 
 ### ข้อสงสัย
-- จะ link MD File หลายไฟล์ ใน preview ยังไง ยังไม่แน่ใจ 
-- การ link ไป MD File ใน sub foldeer
-- ใส่ สี ได้ไหม 
-- การ link รูปภาพ
+- [X] จะ link MD File หลายไฟล์ ใน preview ยังไง ยังไม่แน่ใจ 
+- [X] การ link ไป MD File ใน sub foldeer
+- [ ] ใส่ สี ได้ไหม 
+- [ ] การ link รูปภาพ
+
+#### GitHub Markdown Syntax 
+- Basic writing and formatting syntax
+  -  https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
 
