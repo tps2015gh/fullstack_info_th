@@ -16,7 +16,7 @@
  - https://www.javatpoint.com/headers-in-markdown
  - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-##[[markdown_syntax_brief]]
+## (markdown_syntax_brief.md)
  
 # Config and Setup 
 ##การติดตั้งระบบ markdown บน vscode
