@@ -40,7 +40,7 @@
 
 <!-- pagebreak -->
 
-##[[ MVC with Express |nodejs2webserver_mvc_with_express]]
+##[MVC with Express](nodejs2webserver_mvc_with_express.md)
 
 # http module > code เบื้องต้นใน ของการทำ app  
 ```
