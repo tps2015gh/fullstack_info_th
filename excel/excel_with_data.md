@@ -1,4 +1,4 @@
-## [[Excel Data Processing|./excel/excel_with_data]]
+## [Excel Data Processing](./excel/excel_with_data)
 - การวิเคราะห์อะไรถ้าใน Excel (What-IF) 
   - https://macerayarislari.com/th/data-analysis/340-what-if-analysis-in-excel.html
 - Data Table 
