@@ -147,7 +147,7 @@ tps2015gh/fullstack_info_th
 -  NIST Framework  https://www.nist.gov/cyberframework
 - MITRE ATTACK - https://attack.mitre.org/
 ## Vulnerabilities Scanner (ลิงค์ภายนอก)
-- [x] [[SQL Injection Scanner ต่างๆ |./vul_scanner/sql_injection_scanner]]
+- [x] [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner)
 - [x] OWASP Zap Proxy 
   - [x]  https://www.zaproxy.org/
   - [x]  Getting Started - https://www.zaproxy.org/getting-started/
@@ -159,7 +159,7 @@ tps2015gh/fullstack_info_th
 ## Excel Advance 
 - [x] [Excel Data Processing](./excel/excel_with_data.md)
 
-## [[My Web Apps | ./apps/myWebApp]]
+## [My Web Apps](./apps/myWebApp)
 -  [ ] check .gitignore
 -  [ ] Hidden
 -  [ ] check git add .
