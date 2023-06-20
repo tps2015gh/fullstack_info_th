@@ -20,7 +20,7 @@
 
 
 ### NVM 
-#### [[การติดตั้ง MVM]]
+#### [การติดตั้ง NVM](การติดตั้ง MVM.md)
 
 
 
@@ -29,7 +29,7 @@
 
 
 <!-- pagebreak -->
-[[markdown_using]] 
+[markdown_using](markdown_using.md)
 
 
 <!-- pagebreak -->
