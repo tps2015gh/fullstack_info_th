@@ -24,14 +24,14 @@
 - [x]  [AngularJS](./clientside/angularjs.md)
 
 ##  SaSS 
-  - [x] [[SASS package|./css/sass]]
+  - [x] [SASS package](./css/sass.md)
 
 ## Package Maneger 
-- [x] ### [[Package manager Chocolatey | ./packagemanger/chocolatey_pm ]]
+- [x] ### [Package manager Chocolatey](./packagemanger/chocolatey_pm.md)
 
 ##  Infrastructure as Code (IoC)
 
-- [x] #### [[Docker |./infra_as_code/Docker]]
+- [x] #### [Docker](./infra_as_code/Docker.md)
 - [x] Puppet  รออ่าน 
 - [x] TerraForm - รออ่าน
 
@@ -51,7 +51,7 @@
 
 
 ## Excel Advance 
-- [x] [[Excel Data Processing|./excel/excel_with_data]]
+- [x] [Excel Data Processing](./excel/excel_with_data.md)
 
 ## [[My Web Apps | ./apps/myWebApp]]
 -  [ ] check .gitignore
