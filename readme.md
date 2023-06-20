@@ -21,10 +21,10 @@
 - [x] #### [[NodeJS with Vue.js | ./clientside/nodejs2vue]]
 
 ## Client Side Javascript (without node.js)
-- [x]  [[AngularJS | ./clientside/angularjs]]
+- [x]  [AngularJS](./clientside/angularjs)
 
 ##  SaSS 
-  - [x] [[SASS package  |  ./css/sass]]
+  - [x] [[SASS package|./css/sass]]
 
 ## Package Maneger 
 - [x] ### [[Package manager Chocolatey | ./packagemanger/chocolatey_pm ]]
