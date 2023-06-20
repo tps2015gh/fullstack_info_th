@@ -18,6 +18,13 @@ tps2015gh/fullstack_info_th
 ## การติดตั้ง PM2 และ Forever สำหรับ Node.js
 - ยังไม่มีข้อมูล
 
+## jQuery
+- Site: https://jquery.com/
+- Tutorial - https://www.w3schools.com/jquery/default.asp
+- ### jQuery > Datetime Picker 
+  - jQuery DatePicker - https://jqueryui.com/datepicker/
+  - https://stackoverflow.com/questions/19382189/change-language-for-bootstrap-datetimepicker
+
 ## NodeJS Client Side
 - [x] [NodeJS with AngularCLI](./clientside/nodejs2angularcli.md)
 - [x] [NodeJS with ReactJS](./clientside/nodejs2reactjs.md)
