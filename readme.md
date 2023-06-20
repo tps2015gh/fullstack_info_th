@@ -3,8 +3,8 @@ tps2015gh/fullstack_info_th
 ===============================
 
 ## การใช้งาน MarkDown 
-- [x] #### [การใช้งาน Markdown](markdown_using)
-- [x] #### [สรุป Syntax ของ Markdown](markdown_syntax_brief)
+- [x] #### [การใช้งาน Markdown](markdown_using.md)
+- [x] #### [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
   
 ##  NodeJS Server Side (Web Server)
 - [x] #### [เปลี่ยน NodeJs ไปเป็น WebServer ](./node_server/nodejs2webserver.md)
