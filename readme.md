@@ -22,7 +22,7 @@ tps2015gh/fullstack_info_th
 - Site: https://jquery.com/
 - Tutorial - https://www.w3schools.com/jquery/default.asp
 - ### jQuery > Datetime Picker 
-  - jQuery DatePicker - https://jqueryui.com/datepicker/
+  - jQuery DatePicker - 
   - https://stackoverflow.com/questions/19382189/change-language-for-bootstrap-datetimepicker
 
 ## NodeJS Client Side
@@ -36,7 +36,7 @@ tps2015gh/fullstack_info_th
   - Site - https://react.dev/
   - Quick Start - https://react.dev/learn
   - Learn - https://www.w3schools.com/react/default.asp
-
+- [Javascript for Debug in Chrome Console](./clientside/chome_debug_javascript.md)
 ##  SaSS 
   - [x] [SASS package](./css/sass.md)
 
