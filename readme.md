@@ -131,13 +131,16 @@ tps2015gh/fullstack_info_th
 - Kali - https://www.kali.org/ 
   - Kali Document - https://www.kali.org/docs/
   - Kali Tools Document - https://www.kali.org/tools/
-- 
-- 
-- 
-## Ransomware Group 
-- Conti - https://en.wikipedia.org/wiki/Conti_(ransomware)
-- 
 
+======
+
+## Ransomware Group 
+- APT statistic - https://apt.etda.or.th/cgi-bin/aptstats.cgi
+- Conti - https://en.wikipedia.org/wiki/Conti_(ransomware)
+- Cl0p  - https://www.sangfor.com/blog/cybersecurity/Cl0p-ransomware-gang-what-you-need-to-know
+- BlackCat - https://apt.etda.or.th/cgi-bin/showcard.cgi?g=ALPHV%2C%20BlackCat%20Gang&n=1
+- List All Group - https://apt.etda.or.th/cgi-bin/listgroups.cgi
+- Threat Group Tools list - https://apt.etda.or.th/cgi-bin/listtools.cgi
 ## version control 
 - Git  - https://git-scm.com/ 
   - Tutorial from w3schools  - https://www.w3schools.com/git/
