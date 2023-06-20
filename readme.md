@@ -3,22 +3,22 @@
 
 
 ## การใช้งาน MarkDown 
-- [x] #### [[การใช้งาน Markdown| markdown_using]]
-- [x] #### [[สรุป Syntax ของ Markdown | markdown_syntax_brief]]
+- [x] #### [การใช้งาน Markdown| markdown_using]]
+- [x] #### [สรุป Syntax ของ Markdown | markdown_syntax_brief]]
   
 ##  NodeJS Server Side (Web Server)
-- [x] #### [[เปลี่ยน NodeJs ไปเป็น WebServer | nodejs2webserver]]
-- [x] #### [[NodeJS with hAPI | ./node_server/nodejs2hapi]]
-- [x] #### [[NodeJS with Nest.js | ./node_server/nodejs2nestjs]]
+- [x] #### [เปลี่ยน NodeJs ไปเป็น WebServer ](./node_server/nodejs2webserver.md)
+- [x] #### [NodeJS with hAPI](./node_server/nodejs2hapi.md)
+- [x] #### [NodeJS with Nest.js](./node_server/nodejs2nestjs.md)
  
 
 ## การติดตั้ง PM2 และ Forever สำหรับ Node.js
 - ยังไม่มีข้อมูล
 
 ## NodeJS Client Side
-- [x]  #### [[NodeJS with AngularCLI | ./clientside/nodejs2angularcli]]
-- [x] #### [[NodeJS with ReactJS | ./clientside/nodejs2reactjs]]
-- [x] #### [[NodeJS with Vue.js | ./clientside/nodejs2vue]]
+- [x]  #### [NodeJS with AngularCLI](./clientside/nodejs2angularcli.md)
+- [x] #### [NodeJS with ReactJS](./clientside/nodejs2reactjs.md)
+- [x] #### [NodeJS with Vue.js](./clientside/nodejs2vue.md)
 
 ## Client Side Javascript (without node.js)
 - [x]  [AngularJS](./clientside/angularjs.md)
