@@ -18,8 +18,8 @@ SASS page ( npm ) - https://www.npmjs.com/package/sass
   >
 
 ## run  sass
-> หลัง install พบว่า รันไม่ได้ แต่ รันได้ ผ่าน  พบ error เลยลองรันแบบนี้ก็ผ่าน 
-> c:\programdata\chocolatey\lib\sass\bin\sass.exe  .\a.scss  .\a.css
+>  หลัง install พบว่า รันไม่ได้ แต่ รันได้ ผ่าน  พบ error เลยลองรันแบบนี้ก็ผ่าน
+>  c:\programdata\chocolatey\lib\sass\bin\sass.exe  .\a.scss  .\a.css
 > จะเป็นการ แปลง .\a.scss เป็น  .\a.css 
 
 a.scss
