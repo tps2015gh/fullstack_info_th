@@ -12,8 +12,8 @@ SASS page ( npm ) - https://www.npmjs.com/package/sass
 ### ตรวจสอบหลังการติดตั้ง SaSS 
 - คำสั่งหลังการติดตั้ง
   > - sass -version
-  > - (this error )
-  > - (must use > npm sass -v ) 
+    > - > (this error )
+    > - > (must use > npm sass -v ) 
   > - sass -watch app/sass:public/stylesheets
 
 ### Learning  SASS
