@@ -175,6 +175,10 @@ tps2015gh/fullstack_info_th
 -  [ ] Hidden
 -  [ ] check git add .
 -  [ ] git init 
--  [ ] upload to github 
+-  [ ] upload to github
+
+## GitHub 
+- Work with advanced formatting/
+   - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
 
 
