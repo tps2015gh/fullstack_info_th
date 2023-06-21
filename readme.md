@@ -177,6 +177,14 @@ tps2015gh/fullstack_info_th
 -  [ ] git init 
 -  [ ] upload to github
 
+
+### Bower To YARN !!! 
+- https://bower.io/blog/2017/how-to-migrate-away-from-bower/
+
+- psst! While Bower is maintained, we recommend using Yarn and Vite for front-end projects. Read how to migrate!
+
+=====
+
 ## GitHub 
 - Work with advanced formatting/
    - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
