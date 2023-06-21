@@ -61,7 +61,7 @@ server.listen(port, host, () => {
 ```
 
 ทีนี้ ถ้าต้องการ ให้มีการ เปลี่ยนเป็น csv แทน ก็ต้องเปลี่ยนโค้ด เป็น 
-```nodejs
+```javascript
 const requestlistener_serve_csv = function (){
     const requestListener = function (req, res) {
         res.setHeader("Content-Type", "text/csv");
