@@ -43,7 +43,7 @@
 ##[MVC with Express](nodejs2webserver_mvc_with_express.md)
 
 # http module > code เบื้องต้นใน ของการทำ app  
-```
+```nodejs
 const http = require("http");
 const host = 'localhost';
 const port = 8000;
@@ -61,7 +61,7 @@ server.listen(port, host, () => {
 ```
 
 ทีนี้ ถ้าต้องการ ให้มีการ เปลี่ยนเป็น csv แทน ก็ต้องเปลี่ยนโค้ด เป็น 
-```
+```nodejs
 const requestlistener_serve_csv = function (){
     const requestListener = function (req, res) {
         res.setHeader("Content-Type", "text/csv");
