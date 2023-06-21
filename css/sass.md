@@ -43,5 +43,5 @@ body {
 > - Sass Tutorial - https://www.w3schools.com/sass/default.php
 
 ### อื่นๆ อ้างอิง 
-- #### [[Package manager Chocolatey | ./packagemanger/chocolatey_pm ]]
+- [Package manager Chocolatey](./packagemanger/chocolatey_pm)
  
