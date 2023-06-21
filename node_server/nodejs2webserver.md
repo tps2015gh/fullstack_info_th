@@ -43,7 +43,7 @@
 ##[MVC with Express](nodejs2webserver_mvc_with_express.md)
 
 # http module > code เบื้องต้นใน ของการทำ app  
-```nodejs
+```javascript
 const http = require("http");
 const host = 'localhost';
 const port = 8000;
