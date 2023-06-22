@@ -208,10 +208,13 @@ yarn -v
 > #ต้องเปลี่ยน yarn เป็น version 1.x ก่อนด้วย 
 ตั้งค่า version เก่า 1.x
 yarn set version stable
-yarn -v
+yarn -v 
 > 3.6.0
 yarn set version 1.22.19
 yarn -v
+
+##(last update 2566-06-22-1706)
+
 ##### Corepack 
 https://nodejs.org/dist/latest/docs/api/corepack.html
   
