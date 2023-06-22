@@ -205,7 +205,9 @@ npm install -g yarn
 npm update
 yarn -v
 
-> >1.22.19
+#####change yarn to version 1.x
+
+>1.22.19
 > #ต้องเปลี่ยน yarn เป็น version 1.x ก่อนด้วย 
 >ตั้งค่า version เก่า 1.x
 >yarn set version stable
@@ -214,7 +216,7 @@ yarn -v
 yarn set version 1.22.19
 yarn -v
 
-##(last update 2566-06-22-1706)
+##(last update 2566-06-22-1709)
 
 ##### Corepack 
 https://nodejs.org/dist/latest/docs/api/corepack.html
