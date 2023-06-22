@@ -186,8 +186,12 @@ tps2015gh/fullstack_info_th
 - after install Yarn 1.x , install bower-away  https://github.com/sheerun/bower-away
   - yarn global add bower-away # or "npm install -g bower-away"
 bower-away # listen and repeat!
-##### Migrate to yarn 
+##### Migrate to yarn (under developement)
  1. npm i -g corepack
+ 2. corepack enable
+ 3. corepack prepare yarn@stable --activate
+ 4. yarn set version stable
+ 5. 
 
 ##### Corepack 
 https://nodejs.org/dist/latest/docs/api/corepack.html
