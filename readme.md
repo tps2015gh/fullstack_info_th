@@ -198,15 +198,19 @@ bower-away # listen and repeat!
  4. yarn set version stable
 
 ##### Install Yarn for Migrate bower (success)
-> nvm list
-nvm install 18.16.0
-nvm use 18.16.0
-npm install -g yarn
-npm update
-yarn -v
+```text
+ nvm list
+- nvm install 18.16.0
+- nvm use 18.16.0
+- npm install -g yarn
+- npm update
+- yarn -v
+
+```
 
 #####change yarn to version 1.x
 
+```text
 >1.22.19
 > #ต้องเปลี่ยน yarn เป็น version 1.x ก่อนด้วย 
 >ตั้งค่า version เก่า 1.x
@@ -215,8 +219,9 @@ yarn -v
 > 3.6.0
 yarn set version 1.22.19
 yarn -v
+```
 
-##(last update 2566-06-22-1709)
+##(last update 2566-06-22-1711)
 
 ##### Corepack 
 https://nodejs.org/dist/latest/docs/api/corepack.html
