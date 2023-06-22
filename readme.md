@@ -6,6 +6,11 @@ tps2015gh/fullstack_info_th
 - [x] [การใช้งาน Markdown](markdown_using.md)
 - [x] [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
   
+## NVM( Node.js Version Manager)
+- Internal link - [setup_nvm](./setup_nvm.md)
+- install nvm https://linuxhint.com/install-nvm-windows/
+- install nvm and yarn  - https://www.freecodecamp.org/news/set-up-windows-for-nodejs-development-with-nvm/
+
 ##  NodeJS Server Side (Web Server)
 - [x] [เปลี่ยน NodeJs ไปเป็น WebServer ](./node_server/nodejs2webserver.md)
 - [x] [NodeJS with hAPI](./node_server/nodejs2hapi.md)
@@ -191,7 +196,14 @@ bower-away # listen and repeat!
  2. corepack enable
  3. corepack prepare yarn@stable --activate
  4. yarn set version stable
- 5. 
+
+##### Install Yarn (success)
+> nvm list
+nvm install 18.16.0
+nvm use 18.16.0
+npm install -g yarn
+npm update
+yarn -v
 
 ##### Corepack 
 https://nodejs.org/dist/latest/docs/api/corepack.html
@@ -212,3 +224,4 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 - Markdown - Tutorials
   - https://www.w3schools.io/file/markdown-introduction/
   - List  - https://www.w3schools.io/file/markdown-list/
+
