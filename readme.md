@@ -169,20 +169,29 @@ tps2015gh/fullstack_info_th
 ## Excel Advance 
 - [x] [Excel Data Processing](./excel/excel_with_data.md)
 
+****
 ## [My Web Apps](./apps/myWebApp)
--  [ ] check .gitignore
--  [ ] Hidden
--  [ ] check git add .
--  [ ] git init 
--  [ ] upload to github
+-  [x] check .gitignore
+ 
 
-
+***
 ### Bower To YARN !!! 
 - Bower - https://bower.io/
   - > ...psst! While Bower is maintained, we recommend using Yarn and Vite for front-end projects. Read how to migrate!
 - https://bower.io/blog/2017/how-to-migrate-away-from-bower/
 
-- psst! While Bower is maintained, we recommend using Yarn and Vite for front-end projects. Read how to migrate!
+- (from page) psst! While Bower is maintained, we recommend using Yarn and Vite for front-end projects. Read how to migrate!
+- (from page) I focused on this for a while and the result is pleasing: Yarn 1.x is able to install most of Bower packages. But there’s a catch: it cannot resolve Bower dependencies.
+- (from page) หลังจากติดั้ง yarn 1.x แล้ว ให้ติดตั้ ว bower-away  
+- after install Yarn 1.x , install bower-away  https://github.com/sheerun/bower-away
+  - yarn global add bower-away # or "npm install -g bower-away"
+bower-away # listen and repeat!
+##### Migrate to yarn 
+ 1. npm i -g corepack
+
+##### Corepack 
+https://nodejs.org/dist/latest/docs/api/corepack.html
+  
 ##### yarn 
 - https://yarnpkg.com/
 - get start - https://yarnpkg.com/getting-started
@@ -190,8 +199,12 @@ tps2015gh/fullstack_info_th
 - https://vitejs.dev/
 - get start - https://vitejs.dev/guide/
 
-=====
+***
 
-## [GitHub Document](./github/github_doc.md)
+#### [GitHub Document](./github/github_doc.md)
 
 
+#### Markdown Syntax 
+- Markdown - Tutorials
+  - https://www.w3schools.io/file/markdown-introduction/
+  - List  - https://www.w3schools.io/file/markdown-list/
