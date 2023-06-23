@@ -22,7 +22,7 @@
 ***
 
 
-- #### [LINK: JavaScript and Nodejs](./dev/lang/javascript.md)
+- #### [LINK: JavaScript and Nodejs](../dev/lang/javascript.md)
 
 - ##### TypeScript 
   - site:  https://www.typescriptlang.org/
