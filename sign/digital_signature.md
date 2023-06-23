@@ -1,4 +1,11 @@
+### Digital Signature 
+- กฏหมายที่เกี่ยวข้อง
+- พระรำชบัญญัติ ว่ำด้วยธุรกรรมทำงอิเล็กทรอนิกส์ พ.ศ. ๒๕๔๔
+  - https://www.krisdika.go.th/librarian/get?sysid=570721&ext=pdf
+
+
 #### E-Signature vs Ditial Signature 
+
 - https://www.fusionsol.com/blog/e-signature_vs_digital-signature/
   - จากข้อมูลนี้ สรุปนี้กรมที่ดินเป็นการใช้งานแบบ E-Signature ไม่มีการเข้ารหัสข้อมูล ไม่สามารถยืนยันตัวตนได้อย่างแท้จริง 
   - Digital-Signature มีความสำคัญสูงกว่า ทดแทนลายเซ็นแบบกระดาษได้ และได้รับการยอมรับอย่างสากล ต้องมีหน่วยงานยืนยัน
@@ -46,10 +53,8 @@
 (๗) กรณีใด ๆ ที่คณะกรรมการประกาศกำหนด
 
 ***
-ตัวอย่าง เครื่องมือ ในการ Sign Digital-Signature 
-
-*** 
-ตัวอย่าง เครื่องมือ ในการ Sign Digital-Signature 
+ 
+####ตัวอย่าง เครื่องมือ ในการ Sign Digital-Signature 
 ##### Acrobat PDFMaker
 - digital sign With Adobe Acrobat 
   - https://helpx.adobe.com/acrobat/using/validating-digital-signatures.html
@@ -71,3 +76,10 @@
 ##### บริการ SSL 
 * z.com SSL
   - https://ssl.z.com/th/aatl/
+
+##### OID 
+- Object Identifier ระบบทะเบียนหมายเลขโอไอดี : https://oid.teda.th/
+- คู่มือการใช้งานระบบ OID เริ่มใช้ เมื่อปี 2562 
+  - https://oid.teda.th/docs/etda/20190328-QMS-SD-OSD-04-V02.pdf
+- OID และ Certificate (จาก Adobe.com)
+  - https://www.adobe.com/devnet-docs/acrobatetk/tools/DigSigDC/oids.html

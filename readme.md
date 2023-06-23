@@ -133,39 +133,58 @@ tps2015gh/fullstack_info_th
   - Tutorial  - https://www.w3schools.com/php/
   - Codeigniter page - https://github.com/bcit-ci
    
-## Windows Registry Reference 
-  - Windows Registry Reference - https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
-  - Windows Registry Reference (F5) - https://techdocs.f5.com/en-us/bigip-16-0-0/big-ip-access-policy-manager-visual-policy-editor/windows-registry-reference.html
+##### Javascript Library 
+ - GIS Library Leaflet.js  - https://leafletjs.com/
+ - 3D Rendering three.js  - https://threejs.org/
+ - D3.js  - Display Data as Graph in DataScience -  https://d3js.org/
+ - Chart.js  - Display Data as Graph in DataScience -  https://www.chartjs.org/
+ - Tensorflow.js  - AI Library - https://www.tensorflow.org/js
+ - ReactJS - https://react.dev/
+ - AngularJS - https://angular.io/
+ - Vue.js - https://vuejs.org/
+ - SVELTE - https://svelte.dev/
+ - 
+##### version control 
+- Git  - https://git-scm.com/ 
+  - Tutorial from w3schools  - https://www.w3schools.com/git/
 
-## Linux  
-#### Ubuntu  (สามารถใช้กับ Docker ได้)
+
+#### Linux  
+##### Ubuntu  (สามารถใช้กับ Docker ได้)
 - Download : https://ubuntu.com/download
-#### Alpine Linux (For Docker)
+##### Alpine Linux (For Docker)
 - Site - https://www.alpinelinux.org/ 
+
+***
+
+## งาน PDPA และกฏหมาย นโยบาย
+- [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
+#### Security Framework 
+- NIST Framework  https://www.nist.gov/cyberframework
+- MITRE ATTACK - https://attack.mitre.org/
+##### Open Data  
+-  https://data.go.th/
+
+##### Digital Certificate 
+-  [LINK ภายใน : ข้อมูลและกฏหมาย ลายเซ็นอิเล็กทรอนิกส์](./sign/digital_signature.md)
+
+
+
+***
 #### Backtrack 
 - Site - https://www.backtrack-linux.org/
 - Kali - https://www.kali.org/ 
   - Kali Document - https://www.kali.org/docs/
   - Kali Tools Document - https://www.kali.org/tools/
 
-======
-
-## Ransomware Group 
+#### Ransomware Group 
 - APT statistic - https://apt.etda.or.th/cgi-bin/aptstats.cgi
 - Conti - https://en.wikipedia.org/wiki/Conti_(ransomware)
 - Cl0p  - https://www.sangfor.com/blog/cybersecurity/Cl0p-ransomware-gang-what-you-need-to-know
 - BlackCat - https://apt.etda.or.th/cgi-bin/showcard.cgi?g=ALPHV%2C%20BlackCat%20Gang&n=1
 - List All Group - https://apt.etda.or.th/cgi-bin/listgroups.cgi
 - Threat Group Tools list - https://apt.etda.or.th/cgi-bin/listtools.cgi
-## version control 
-- Git  - https://git-scm.com/ 
-  - Tutorial from w3schools  - https://www.w3schools.com/git/
-
-## งาน PDPA และกฏหมาย นโยบาย
-- [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
--  NIST Framework  https://www.nist.gov/cyberframework
-- MITRE ATTACK - https://attack.mitre.org/
-## Vulnerabilities Scanner (ลิงค์ภายนอก)
+#### Vulnerabilities Scanner (ลิงค์ภายนอก)
 - [x] [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner)
 - [x] OWASP Zap Proxy 
   - [x]  https://www.zaproxy.org/
@@ -174,6 +193,15 @@ tps2015gh/fullstack_info_th
   - [x] วิธีใช้งาน Kali Linux – OWASP Zap – Active Scan - https://sysadmin.psu.ac.th/2016/10/17/using-kali-linux-owasp-zap-active-scan/
   - [ ] metasploit document  - https://docs.metasploit.com/
 
+#### Windows Registry Reference 
+  - Windows Registry Reference - https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
+  - Windows Registry Reference (F5) - https://techdocs.f5.com/en-us/bigip-16-0-0/big-ip-access-policy-manager-visual-policy-editor/windows-registry-reference.html
+***
+#### SNMP MIB Lookup 
+- Online MIB Browser (SNMP): OID Lookup & SNMP MIB Viewer
+  - https://bestmonitoringtools.com/mibdb/mibdb_search.php
+  
+***
 
 ## Excel Advance 
 - [x] [Excel Data Processing](./excel/excel_with_data.md)
@@ -241,6 +269,9 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 
 #### [GitHub Document](./github/github_doc.md)
 
+***
+
+
 
 #### Markdown Syntax 
 - Markdown - Tutorials
@@ -255,5 +286,3 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
   - https://www.calculator.net/random-number-generator.html
 - phasephase generator 
   - https://codebeautify.org/generate-random-string
-
-### [ข้อมูลและกฏหมาย ลายเซ็นอิเล็กทรอนิกส์](./sign/digital_signature.md)
