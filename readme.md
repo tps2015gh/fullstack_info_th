@@ -9,6 +9,8 @@ tps2015gh/fullstack_info_th
     - https://cloud.google.com/compute/docs/instances/windows/creating-managing-windows-instances
   - Windows Server Image Price 
     - https://cloud.google.com/compute/disks-image-pricing#windows_server_pricing
+  - ราคา google 
+    - https://www.websiteplanet.com/th/blog/google-cloud-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%88%E0%B8%B0%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B9%88/
 #### On Amazon AWS 
     - Step 1: Launch a Windows Server Amazon EC2 instance
       - https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-windows-launch-instance.html
