@@ -29,6 +29,10 @@ tps2015gh/fullstack_info_th
   - jQuery DatePicker - 
   - https://stackoverflow.com/questions/19382189/change-language-for-bootstrap-datetimepicker
 
+### ClientSide  > Design Tools
+- Figma
+  https://blog.skooldio.com/figma-ui-design-tool/
+
 ## NodeJS Client Side
 - [x] [NodeJS with AngularCLI](./clientside/nodejs2angularcli.md)
 - [x] [NodeJS with ReactJS](./clientside/nodejs2reactjs.md)
@@ -243,3 +247,13 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
   - https://www.w3schools.io/file/markdown-introduction/
   - List  - https://www.w3schools.io/file/markdown-list/
 
+
+####  Generator 
+- QRCode Generator 
+  - https://www.the-qrcode-generator.com/
+- Random Number Generator 
+  - https://www.calculator.net/random-number-generator.html
+- phasephase generator 
+  - https://codebeautify.org/generate-random-string
+
+### [ข้อมูลและกฏหมาย ลายเซ็นอิเล็กทรอนิกส์](./sign/digital_signature.md)
