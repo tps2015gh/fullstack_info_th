@@ -2,6 +2,23 @@
 tps2015gh/fullstack_info_th
 ===============================
 
+### Setup Windows Server 
+#### On Google Cloud Plateform 
+  - Google Cloud Create and manage Windows Server VMs
+    - https://cloud.google.com/compute/docs/instances/windows/creating-managing-windows-instances
+#### On Amazon AWS 
+    - Step 1: Launch a Windows Server Amazon EC2 instance
+      - https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-windows-launch-instance.html
+
+### Cloud Hosting
+-  Linux - https://cloud.z.com/th/
+-  de.co.th
+   -  cloud host -  https://de.co.th/cloud-hosting
+-  sis.cloud.service  
+   -  price - https://www.siscloudservices.com/th/pricing/pricing
+- moveup cloud price 
+  - ราคาถูก - https://www.moveupcloud.com/vps-hdd/
+***
 ## การใช้งาน MarkDown 
 - [x] [การใช้งาน Markdown](markdown_using.md)
 - [x] [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
@@ -284,3 +301,4 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
   - https://www.calculator.net/random-number-generator.html
 - phasephase generator 
   - https://codebeautify.org/generate-random-string
+
