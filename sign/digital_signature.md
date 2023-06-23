@@ -54,7 +54,13 @@
 
 ***
  
-####ตัวอย่าง เครื่องมือ ในการ Sign Digital-Signature 
+#### สอนวิธีการใช้ E-Signature ( No Encryption , No PKI) (มาตรา 9)
+- E-Signature บน iPad 
+  -  https://www.howtogeek.com/683267/how-to-sign-pdfs-on-iphone-ipad-and-mac/
+  -  E-Signature - ด้วย MarkUp  - https://support.apple.com/en-us/HT206885
+
+***
+####ตัวอย่าง เครื่องมือ ในการ Sign Digital-Signature (with Encrypt+PKI)(มาตรา 26)
 ##### Acrobat PDFMaker
 - digital sign With Adobe Acrobat 
   - https://helpx.adobe.com/acrobat/using/validating-digital-signatures.html
@@ -64,7 +70,15 @@
 - การใช้ Digital Sign with MSOffice 2016 
   - https://learn.microsoft.com/en-us/deployoffice/office2016/security/digital-signatures?redirectedfrom=MSDN
 
-##### ตัวอย่างบริการ Sign  
+***
+ติดตั้ง PKI Infrastructure  (มาตรา 26)
+- STEP 4: Install a basic PKI certificate infrastructure  - https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj574179(v=ws.11)
+- ติตตั้ง PKI Toolkits - https://nontster.medium.com/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-certificate-authority-%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99-lab-test-environment-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-cloudflares-pki-tls-toolkit-fc85e4d2ec56
+- ติดตั้ง local certificate server (CA) - https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/
+- (Microsoft ) การติดตั้ง CA Server - https://learn.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/install-the-certification-authority
+- 
+***
+##### ตัวอย่างบริการ Sign (Encrypt + PKI)(มาตรา28)
 * iZign 
   - https://www.iamconsulting.co.th/product/izign-digital-signature
     - > ตำกล่าวอ้างของ บริษัท ดังนี้... 
@@ -73,9 +87,11 @@
 สอดคล้องตามข้อกฎหมายทุกมาตรา
 ทั้ง มาตรา 9 26 และ 28
 
-##### บริการ SSL 
+***
+##### บริการ SSL (มาตรา26 หรือ มาตรา28)
 * z.com SSL
   - https://ssl.z.com/th/aatl/
+  - 
 
 ##### OID 
 - Object Identifier ระบบทะเบียนหมายเลขโอไอดี : https://oid.teda.th/
@@ -83,3 +99,8 @@
   - https://oid.teda.th/docs/etda/20190328-QMS-SD-OSD-04-V02.pdf
 - OID และ Certificate (จาก Adobe.com)
   - https://www.adobe.com/devnet-docs/acrobatetk/tools/DigSigDC/oids.html
+
+ 
+##### PDF with Certificate (CA) (มาตรา 26 และมาตรา 28) 
+- Adobe Certificate-based signatures -  https://helpx.adobe.com/acrobat/using/certificate-based-signatures.html 
+
