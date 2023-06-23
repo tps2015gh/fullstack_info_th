@@ -37,6 +37,8 @@ tps2015gh/fullstack_info_th
     - https://thesecmaster.com/what-is-the-difference-between-a-standalone-and-an-enterprise-ca/
   - Setup Certificate Server (Enterpise , with Web Enrollment )
     - https://thesecmaster.com/step-by-step-procedure-to-set-up-an-enterprise-root-ca-on-windows-server/
+  - Request Certificate from Web IIS  ( https://<server-ca>/certsrv )
+    - https://learn.microsoft.com/en-us/system-center/scom/obtain-certificate-windows-server-and-operations-manager?view=sc-om-2022&tabs=Enterp%2CEnter
 *** 
 ## การใช้งาน MarkDown 
 - [x] [การใช้งาน Markdown](markdown_using.md)
