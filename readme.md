@@ -19,6 +19,9 @@ tps2015gh/fullstack_info_th
    -  price - https://www.siscloudservices.com/th/pricing/pricing
 - moveup cloud price 
   - ราคาถูก - https://www.moveupcloud.com/vps-hdd/
+
+### windows server download eval
+  - download and azue - https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 ***
 ## การใช้งาน MarkDown 
 - [x] [การใช้งาน Markdown](markdown_using.md)
