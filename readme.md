@@ -6,29 +6,9 @@ tps2015gh/fullstack_info_th
 ## การใช้งาน MarkDown 
 - [x] [การใช้งาน Markdown](markdown_using.md)
 - [x] [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
-  
-## NVM( Node.js Version Manager)
-- Internal link - [setup_nvm](./setup_nvm.md)
-- install nvm https://linuxhint.com/install-nvm-windows/
-- install nvm and yarn  - https://www.freecodecamp.org/news/set-up-windows-for-nodejs-development-with-nvm/
 
-##  NodeJS Server Side (Web Server)
-- [x] [เปลี่ยน NodeJs ไปเป็น WebServer ](./node_server/nodejs2webserver.md)
-- [x] [NodeJS with hAPI](./node_server/nodejs2hapi.md)
-- [x] [NodeJS with Nest.js](./node_server/nodejs2nestjs.md)
-- ##### Express.js
-  - Site  - https://expressjs.com/
-  - Get Start - https://expressjs.com/en/starter/installing.html
- 
-## การติดตั้ง PM2 และ Forever สำหรับ Node.js
-- ยังไม่มีข้อมูล
 
-## jQuery
-- Site: https://jquery.com/
-- Tutorial - https://www.w3schools.com/jquery/default.asp
-- ### jQuery > Datetime Picker 
-  - jQuery DatePicker - 
-  - https://stackoverflow.com/questions/19382189/change-language-for-bootstrap-datetimepicker
+####  [Dev > Programming Language](./dev/dev_language.md)
 
 ### ClientSide  > Design Tools
 - Figma
@@ -88,7 +68,6 @@ tps2015gh/fullstack_info_th
 - notepad++ - https://code.visualstudio.com/
 - Sublime Text - https://www.sublimetext.com/
 
-####  [Dev > Programming Language](./dev/dev_language.md)
  - 
 ##### version control 
 - Git  - https://git-scm.com/ 
