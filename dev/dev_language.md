@@ -14,7 +14,15 @@
     - Django - https://www.djangoproject.com/
 
 
-- ##### [LINK: JavaScript](./dev/lang/javascript.md)
+***
+### Markdown 
+  * [Markdown Using](./lang/markdown/markdown_using.md)
+  * [Markdown Syntax](./lang/markdown/markdown_syntax_brief.md)
+
+***
+
+
+- #### [LINK: JavaScript and Nodejs](./dev/lang/javascript.md)
 
 - ##### TypeScript 
   - site:  https://www.typescriptlang.org/

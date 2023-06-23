@@ -12,14 +12,14 @@
 
 ***
 #### NVM( Node.js Version Manager)
-- Internal link - [setup_nvm](./setup_nvm.md)
+- Internal link - [setup_nvm](./js/nodejs/setup_nvm.md)
 - install nvm https://linuxhint.com/install-nvm-windows/
 - install nvm and yarn  - https://www.freecodecamp.org/news/set-up-windows-for-nodejs-development-with-nvm/
 
 ####  NodeJS Server Side (Web Server)
-- [x] [เปลี่ยน NodeJs ไปเป็น WebServer ](./node_server/nodejs2webserver.md)
-- [x] [NodeJS with hAPI](./node_server/nodejs2hapi.md)
-- [x] [NodeJS with Nest.js](./node_server/nodejs2nestjs.md)
+- [x] [เปลี่ยน NodeJs ไปเป็น WebServer ](./js/node_server/nodejs2webserver.md)
+- [x] [NodeJS with hAPI](./js/node_server/nodejs2hapi.md)
+- [x] [NodeJS with Nest.js](./js/node_server/nodejs2nestjs.md)
 - ##### Express.js
   - Site  - https://expressjs.com/
   - Get Start - https://expressjs.com/en/starter/installing.html
@@ -63,12 +63,12 @@
  - SVELTE - https://svelte.dev/
 
 #### NodeJS Client Side
--  [NodeJS with AngularCLI](./clientside/nodejs2angularcli.md)
--  [NodeJS with ReactJS](./clientside/nodejs2reactjs.md)
--  [NodeJS with Vue.js](./clientside/nodejs2vue.md)
+-  [NodeJS with AngularCLI](./js/clientside/nodejs2angularcli.md)
+-  [NodeJS with ReactJS](./js/clientside/nodejs2reactjs.md)
+-  [NodeJS with Vue.js](./js/clientside/nodejs2vue.md)
 
 #### Client Side Javascript (without node.js)
--   [LINK: AngularJS](./clientside/angularjs.md)
+-   [LINK: AngularJS](./js/clientside/angularjs.md)
 -   ReactJS tutorial 
   - Site - https://react.dev/
   - Quick Start - https://react.dev/learn
@@ -76,4 +76,4 @@
 
 ***
 
-#### [Link: Javascript for Debug in Chrome Console](./clientside/chome_debug_javascript.md)
+#### [Link: Javascript for Debug in Chrome Console](./js/clientside/chome_debug_javascript.md)
