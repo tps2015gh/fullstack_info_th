@@ -75,8 +75,12 @@
 - STEP 4: Install a basic PKI certificate infrastructure  - https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj574179(v=ws.11)
 - ติตตั้ง PKI Toolkits - https://nontster.medium.com/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-certificate-authority-%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99-lab-test-environment-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-cloudflares-pki-tls-toolkit-fc85e4d2ec56
 - ติดตั้ง local certificate server (CA) - https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/
+
+#### Windows Server Install Certificate (มาตรา 26)
 - (Microsoft ) การติดตั้ง CA Server - https://learn.microsoft.com/en-us/windows-server/networking/core-network-guide/cncg/server-certs/install-the-certification-authority
-- 
+- (Youtube)  02. Installing an Enterprise Root Certificate Authority | Windows Server 2019  https://www.youtube.com/watch?v=yZSju2EOPNY
+
+
 ***
 ##### ตัวอย่างบริการ Sign (Encrypt + PKI)(มาตรา28)
 * iZign 
@@ -103,4 +107,5 @@
  
 ##### PDF with Certificate (CA) (มาตรา 26 และมาตรา 28) 
 - Adobe Certificate-based signatures -  https://helpx.adobe.com/acrobat/using/certificate-based-signatures.html 
+  
 
