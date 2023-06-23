@@ -7,6 +7,8 @@ tps2015gh/fullstack_info_th
 #### On Google Cloud Plateform 
   - Google Cloud Create and manage Windows Server VMs
     - https://cloud.google.com/compute/docs/instances/windows/creating-managing-windows-instances
+  - Windows Server Image Price 
+    - https://cloud.google.com/compute/disks-image-pricing#windows_server_pricing
 #### On Amazon AWS 
     - Step 1: Launch a Windows Server Amazon EC2 instance
       - https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-windows-launch-instance.html
