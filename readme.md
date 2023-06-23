@@ -33,6 +33,9 @@ tps2015gh/fullstack_info_th
 ### Certificate Server On Windows 
   - Setup Certificate Server  on Winodws Server
     - https://thesecmaster.com/step-by-step-procedure-to-set-up-a-standalone-root-ca-on-windows-server/
+  - Difference Standalone Cert Auth  vs Enterprise  Cert Auth 
+    - https://thesecmaster.com/what-is-the-difference-between-a-standalone-and-an-enterprise-ca/
+  
 *** 
 ## การใช้งาน MarkDown 
 - [x] [การใช้งาน Markdown](markdown_using.md)
