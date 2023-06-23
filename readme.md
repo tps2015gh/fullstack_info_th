@@ -14,18 +14,6 @@ tps2015gh/fullstack_info_th
 - Figma
   https://blog.skooldio.com/figma-ui-design-tool/
 
-## NodeJS Client Side
-- [x] [NodeJS with AngularCLI](./clientside/nodejs2angularcli.md)
-- [x] [NodeJS with ReactJS](./clientside/nodejs2reactjs.md)
-- [x] [NodeJS with Vue.js](./clientside/nodejs2vue.md)
-
-## Client Side Javascript (without node.js)
-- [x]  [AngularJS](./clientside/angularjs.md)
-- [x]  ReactJS tutorial 
-  - Site - https://react.dev/
-  - Quick Start - https://react.dev/learn
-  - Learn - https://www.w3schools.com/react/default.asp
-- [Javascript for Debug in Chrome Console](./clientside/chome_debug_javascript.md)
 ##  SaSS 
   - [x] [SASS package](./css/sass.md)
 
