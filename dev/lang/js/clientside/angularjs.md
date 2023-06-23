@@ -15,7 +15,7 @@
 ###โค้ดเบื้องต้น 
 ####โครงสร้างไฟล์ 1
 > เป็นแบบรวมไฟล์เดียว
-```
+```html
 <!doctype html>
 <html ng-app>
   <head>
@@ -40,11 +40,14 @@
 
 ####โครงสร้างไฟล์ 3
 
+```javascript
  > angular.module('app', ['components'])
 .controller('BeerCounter', function(\$scope, \$locale) {
   \$scope.beers = [0, 1, 2, 3, 4, 5, 6];
   if (\$locale.id == 'en-us') {
+```
 
+```javascript
 > angular.module('components', [])
 > .directive('tabs', function() {
     return {
@@ -56,7 +59,9 @@
        template:
         \'<div class=\"tabbable">' + 
       replace: true
+```
 
+```javascript
 > .directive('pane', function() {
     return {
       require: '^tabs',
@@ -66,3 +71,4 @@
       link: function(scope, element, attrs, tabsController) {
         tabsController.addPane(scope);
       },
+```

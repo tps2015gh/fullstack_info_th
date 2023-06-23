@@ -1,6 +1,7 @@
  
 tps2015gh/fullstack_info_th
 ===============================
+(last update 2566-06-23-2023)
 
 ### Setup Windows Server 
 #### On Google Cloud Plateform 
@@ -22,46 +23,14 @@ tps2015gh/fullstack_info_th
 ## การใช้งาน MarkDown 
 - [x] [การใช้งาน Markdown](markdown_using.md)
 - [x] [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
-  
-## NVM( Node.js Version Manager)
-- Internal link - [setup_nvm](./setup_nvm.md)
-- install nvm https://linuxhint.com/install-nvm-windows/
-- install nvm and yarn  - https://www.freecodecamp.org/news/set-up-windows-for-nodejs-development-with-nvm/
 
-##  NodeJS Server Side (Web Server)
-- [x] [เปลี่ยน NodeJs ไปเป็น WebServer ](./node_server/nodejs2webserver.md)
-- [x] [NodeJS with hAPI](./node_server/nodejs2hapi.md)
-- [x] [NodeJS with Nest.js](./node_server/nodejs2nestjs.md)
-- ##### Express.js
-  - Site  - https://expressjs.com/
-  - Get Start - https://expressjs.com/en/starter/installing.html
- 
-## การติดตั้ง PM2 และ Forever สำหรับ Node.js
-- ยังไม่มีข้อมูล
 
-## jQuery
-- Site: https://jquery.com/
-- Tutorial - https://www.w3schools.com/jquery/default.asp
-- ### jQuery > Datetime Picker 
-  - jQuery DatePicker - 
-  - https://stackoverflow.com/questions/19382189/change-language-for-bootstrap-datetimepicker
+####  [Dev > Programming Language](./dev/dev_language.md)
 
 ### ClientSide  > Design Tools
 - Figma
   https://blog.skooldio.com/figma-ui-design-tool/
 
-## NodeJS Client Side
-- [x] [NodeJS with AngularCLI](./clientside/nodejs2angularcli.md)
-- [x] [NodeJS with ReactJS](./clientside/nodejs2reactjs.md)
-- [x] [NodeJS with Vue.js](./clientside/nodejs2vue.md)
-
-## Client Side Javascript (without node.js)
-- [x]  [AngularJS](./clientside/angularjs.md)
-- [x]  ReactJS tutorial 
-  - Site - https://react.dev/
-  - Quick Start - https://react.dev/learn
-  - Learn - https://www.w3schools.com/react/default.asp
-- [Javascript for Debug in Chrome Console](./clientside/chome_debug_javascript.md)
 ##  SaSS 
   - [x] [SASS package](./css/sass.md)
 
@@ -104,62 +73,6 @@ tps2015gh/fullstack_info_th
 - notepad++ - https://code.visualstudio.com/
 - Sublime Text - https://www.sublimetext.com/
 
-## Progrmming Language 
-- ##### Go Lang
-  - https://go.dev/
-  - Tutorial https://www.w3schools.com/go/
-- ##### Python  
-  - Main Page - https://www.python.org/ 
-  - Tutorial https://www.w3schools.com/python/default.asp
-  - Image Processing 
-    - OpenCV  - https://docs.opencv.org/3.4/d6/d00/tutorial_py_root.html
-  - Data Processing 
-  - - Panda - https://www.w3schools.com/python/pandas/default.asp
-  - - Panda - https://pandas.pydata.org/
-  - Web Framework 
-    - Django - https://www.djangoproject.com/
-- ##### TypeScript 
-  - site:  https://www.typescriptlang.org/
-  - Download or install - https://www.typescriptlang.org/download
-  - Get Started - https://www.typescriptlang.org/docs 
-  - TS Config Reference - https://www.typescriptlang.org/tsconfig 
-- ##### Javascript 
-  - Tutorial - https://www.w3schools.com/js/
-  - Javascript From Microsoft - https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  - JWT 
-    - JWT - https://jwt.io/
-    - JWT  - https://www.borntodev.com/2022/12/15/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A-api-authentication-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-jwt-refresh-token-%E0%B8%81%E0%B8%B1%E0%B8%9A-nodejs/
-    - 
-  - 
-- ##### Javascript ES6 
-  - Tutorial -https://www.w3schools.com/js/js_es6.asp
-  - Tutorial 2 - https://www.javascripttutorial.net/es6/
-  - บทความ ES6 - https://medium.com/@goodgod.th/%E0%B8%A2%E0%B8%B8%E0%B8%84-javascript-es6-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89-for-loop-%E0%B8%81%E0%B8%B1%E0%B8%9A-array-%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-26c47fbbed7e
-  
-- ##### Dart  (for Fluttr Developer)
-  - https://dart.dev/
-- ##### PowerShell 
-  - https://learn.microsoft.com/en-us/powershell/
-  - .NET Framework Documentation ( can call from Powershell)
-- ##### PHP 
-  - Site  -  https://www.php.net/
-  - Laravel Framework - https://laravel.com/
-  - Codeigniter - https://www.codeigniter.com/
-    - การใช้งาน Codeigniter - https://medium.com/@vitsavavit/codeigniter-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3-31d17185da3d
-  - Composer - https://getcomposer.org/
-  - Tutorial  - https://www.w3schools.com/php/
-  - Codeigniter page - https://github.com/bcit-ci
-   
-##### Javascript Library 
- - GIS Library Leaflet.js  - https://leafletjs.com/
- - 3D Rendering three.js  - https://threejs.org/
- - D3.js  - Display Data as Graph in DataScience -  https://d3js.org/
- - Chart.js  - Display Data as Graph in DataScience -  https://www.chartjs.org/
- - Tensorflow.js  - AI Library - https://www.tensorflow.org/js
- - ReactJS - https://react.dev/
- - AngularJS - https://angular.io/
- - Vue.js - https://vuejs.org/
- - SVELTE - https://svelte.dev/
  - 
 ##### version control 
 - Git  - https://git-scm.com/ 
