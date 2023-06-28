@@ -111,9 +111,10 @@ tps2015gh/fullstack_info_th
 =======
 
 ***
-
 ## งาน PDPA และกฏหมาย นโยบาย
 - [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
+-  NIST Framework  https://www.nist.gov/cyberframework
+- MITRE ATTACK - https://attack.mitre.org/
 #### Security Framework 
 - NIST Framework  https://www.nist.gov/cyberframework
 - MITRE ATTACK - https://attack.mitre.org/
@@ -122,11 +123,7 @@ tps2015gh/fullstack_info_th
 
 ##### Digital Certificate 
 -  [LINK ภายใน : ข้อมูลและกฏหมาย ลายเซ็นอิเล็กทรอนิกส์](./sign/digital_signature.md)
-
-
-
 ***
->>>>>>> 1c477417cbff7f7b6f5f5403625f367a47dc7f6e
 #### Backtrack 
 - Site - https://www.backtrack-linux.org/
 - Kali - https://www.kali.org/ 
@@ -153,13 +150,7 @@ tps2015gh/fullstack_info_th
 - Setup and install GitLab
   - https://about.gitlab.com/install/
   
-
-## งาน PDPA และกฏหมาย นโยบาย
-- [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
--  NIST Framework  https://www.nist.gov/cyberframework
-- MITRE ATTACK - https://attack.mitre.org/
-## Vulnerabilities Scanner (ลิงค์ภายนอก)
-=======
+***
 #### Vulnerabilities Scanner (ลิงค์ภายนอก)
 >>>>>>> 1c477417cbff7f7b6f5f5403625f367a47dc7f6e
 - [x] [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner)
