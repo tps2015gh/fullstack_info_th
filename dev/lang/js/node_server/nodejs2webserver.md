@@ -5,11 +5,11 @@
 
   - [การรัน nodejs ให้เป็น webserver](#การรัน-nodejs-ให้เป็น-webserver)
     - [NVM](#nvm)
-      - [[[การติดตั้ง MVM]]](#การติดตั้ง-mvm)
+      - [การติดตั้ง NVM](#การติดตั้ง-nvmการติดตั้ง-mvmmd)
   - [การเขียนโค้ด web server ด้วย  nodejs](#การเขียนโค้ด-web-server-ด้วย--nodejs)
   - [http module](#http-module)
     - [http : reference](#http--reference)
-  - [[[ MVC with Express |nodejs2webserver_mvc_with_express]]](#-mvc-with-express-nodejs2webserver_mvc_with_express)
+  - [MVC with Express](#mvc-with-expressnodejs2webserver_mvc_with_expressmd)
 - [http module > code เบื้องต้นใน ของการทำ app](#http-module--code-เบื้องต้นใน-ของการทํา-app)
 
 <!-- /code_chunk_output -->
@@ -28,9 +28,6 @@
 - ดูที่ https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module
 
 
-<!-- pagebreak -->
-[markdown_using](markdown_using.md)
-
 
 <!-- pagebreak -->
 
@@ -43,7 +40,7 @@
 ##[MVC with Express](nodejs2webserver_mvc_with_express.md)
 
 # http module > code เบื้องต้นใน ของการทำ app  
-```
+```javascript
 const http = require("http");
 const host = 'localhost';
 const port = 8000;
@@ -61,7 +58,8 @@ server.listen(port, host, () => {
 ```
 
 ทีนี้ ถ้าต้องการ ให้มีการ เปลี่ยนเป็น csv แทน ก็ต้องเปลี่ยนโค้ด เป็น 
-```
+
+```javascript
 const requestlistener_serve_csv = function (){
     const requestListener = function (req, res) {
         res.setHeader("Content-Type", "text/csv");

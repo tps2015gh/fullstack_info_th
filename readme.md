@@ -1,34 +1,55 @@
  
 tps2015gh/fullstack_info_th
 ===============================
+(last update 2566-06-23-2023)
 
+### Setup Windows Server 
+#### On Google Cloud Plateform 
+  - Google Cloud Create and manage Windows Server VMs
+    - https://cloud.google.com/compute/docs/instances/windows/creating-managing-windows-instances
+    - https://cloud.google.com/compute/docs/images/os-details#windows_server
+  - Windows Server Image Price 
+    - https://cloud.google.com/compute/disks-image-pricing#windows_server_pricing
+  - ราคา google 
+    - https://www.websiteplanet.com/th/blog/google-cloud-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%88%E0%B8%B0%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B9%88/
+  - Create VM Windows Server > On Google Cloud 
+    - https://cloud.google.com/compute/docs/create-windows-server-vm-instance
+#### On Amazon AWS 
+    - Step 1: Launch a Windows Server Amazon EC2 instance
+      - https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-windows-launch-instance.html
+
+### Cloud Hosting
+-  Linux - https://cloud.z.com/th/
+-  de.co.th
+   -  cloud host -  https://de.co.th/cloud-hosting
+-  sis.cloud.service  
+   -  price - https://www.siscloudservices.com/th/pricing/pricing
+- moveup cloud price 
+  - ราคาถูก - https://www.moveupcloud.com/vps-hdd/
+
+### windows server download eval
+  - download and azue - https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
+***
+### Certificate Server On Windows 
+  - Setup Certificate Server (Standalone)  on Winodws Server 
+    - https://thesecmaster.com/step-by-step-procedure-to-set-up-a-standalone-root-ca-on-windows-server/
+  - Difference Standalone Cert Auth  vs Enterprise  Cert Auth 
+    - https://thesecmaster.com/what-is-the-difference-between-a-standalone-and-an-enterprise-ca/
+  - Setup Certificate Server (Enterpise , with Web Enrollment )
+    - https://thesecmaster.com/step-by-step-procedure-to-set-up-an-enterprise-root-ca-on-windows-server/
+  - Request Certificate from Web IIS  ( https://<server-ca>/certsrv )
+    - https://learn.microsoft.com/en-us/system-center/scom/obtain-certificate-windows-server-and-operations-manager?view=sc-om-2022&tabs=Enterp%2CEnter
+*** 
 ## การใช้งาน MarkDown 
 - [x] [การใช้งาน Markdown](markdown_using.md)
 - [x] [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
-  
-##  NodeJS Server Side (Web Server)
-- [x] [เปลี่ยน NodeJs ไปเป็น WebServer ](./node_server/nodejs2webserver.md)
-- [x] [NodeJS with hAPI](./node_server/nodejs2hapi.md)
-- [x] [NodeJS with Nest.js](./node_server/nodejs2nestjs.md)
-- ##### Express.js
-  - Site  - https://expressjs.com/
-  - Get Start - https://expressjs.com/en/starter/installing.html
- 
 
-## การติดตั้ง PM2 และ Forever สำหรับ Node.js
-- ยังไม่มีข้อมูล
 
-## NodeJS Client Side
-- [x] [NodeJS with AngularCLI](./clientside/nodejs2angularcli.md)
-- [x] [NodeJS with ReactJS](./clientside/nodejs2reactjs.md)
-- [x] [NodeJS with Vue.js](./clientside/nodejs2vue.md)
+####  [Dev > Programming Language](./dev/dev_language.md)
 
-## Client Side Javascript (without node.js)
-- [x]  [AngularJS](./clientside/angularjs.md)
-- [x]  ReactJS tutorial 
-  - Site - https://react.dev/
-  - Quick Start - https://react.dev/learn
-  - Learn - https://www.w3schools.com/react/default.asp
+### ClientSide  > Design Tools
+- Figma
+  https://blog.skooldio.com/figma-ui-design-tool/
 
 ##  SaSS 
   - [x] [SASS package](./css/sass.md)
@@ -72,64 +93,40 @@ tps2015gh/fullstack_info_th
 - notepad++ - https://code.visualstudio.com/
 - Sublime Text - https://www.sublimetext.com/
 
-## Progrmming Language 
-- ##### Go Lang
-  - https://go.dev/
-  - Tutorial https://www.w3schools.com/go/
-- ##### Python  
-  - Main Page - https://www.python.org/ 
-  - Tutorial https://www.w3schools.com/python/default.asp
-  - Image Processing 
-    - OpenCV  - https://docs.opencv.org/3.4/d6/d00/tutorial_py_root.html
-  - Data Processing 
-  - - Panda - https://www.w3schools.com/python/pandas/default.asp
-  - - Panda - https://pandas.pydata.org/
-  - Web Framework 
-    - Django - https://www.djangoproject.com/
-- ##### TypeScript 
-  - site:  https://www.typescriptlang.org/
-  - Download or install - https://www.typescriptlang.org/download
-  - Get Started - https://www.typescriptlang.org/docs 
-  - TS Config Reference - https://www.typescriptlang.org/tsconfig 
-- ##### Javascript 
-  - Tutorial - https://www.w3schools.com/js/
-  - Javascript From Microsoft - https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  - JWT 
-    - JWT - https://jwt.io/
-    - JWT  - https://www.borntodev.com/2022/12/15/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A-api-authentication-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-jwt-refresh-token-%E0%B8%81%E0%B8%B1%E0%B8%9A-nodejs/
-    - 
-  - 
-- ##### Javascript ES6 
-  - Tutorial -https://www.w3schools.com/js/js_es6.asp
-  - Tutorial 2 - https://www.javascripttutorial.net/es6/
-  - บทความ ES6 - https://medium.com/@goodgod.th/%E0%B8%A2%E0%B8%B8%E0%B8%84-javascript-es6-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89-for-loop-%E0%B8%81%E0%B8%B1%E0%B8%9A-array-%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-26c47fbbed7e
-  
-- ##### Dart  (for Fluttr Developer)
-  - https://dart.dev/
-- ##### PowerShell 
-  - https://learn.microsoft.com/en-us/powershell/
-  - .NET Framework Documentation ( can call from Powershell)
-- ##### PHP 
-  - Site  -  https://www.php.net/
-  - Laravel Framework - https://laravel.com/
-  - Codeigniter - https://www.codeigniter.com/
-    - การใช้งาน Codeigniter - https://medium.com/@vitsavavit/codeigniter-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3-31d17185da3d
-  - Composer - https://getcomposer.org/
-  - Tutorial  - https://www.w3schools.com/php/
-  - Codeigniter page - https://github.com/bcit-ci
-   
-## Windows Registry Reference 
-  - Windows Registry Reference - https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
-  - Windows Registry Reference (F5) - https://techdocs.f5.com/en-us/bigip-16-0-0/big-ip-access-policy-manager-visual-policy-editor/windows-registry-reference.html
+ - 
+##### version control 
+- Git  - https://git-scm.com/ 
+  - Tutorial from w3schools  - https://www.w3schools.com/git/
 
-## Linux  
-#### Ubuntu  (สามารถใช้กับ Docker ได้)
+
+#### Linux  
+##### Ubuntu  (สามารถใช้กับ Docker ได้)
 - Download : https://ubuntu.com/download
-#### Alpine Linux (For Docker)
+##### Alpine Linux (For Docker)
 - Site - https://www.alpinelinux.org/ 
+<<<<<<< HEAD
 - Package - https://pkgs.alpinelinux.org/packages
 - install pakagew with apk - https://docs.alpinelinux.org/user-handbook/0.1a/Working/apk.html
 - OpenRC - https://docs.alpinelinux.org/user-handbook/0.1a/Working/openrc.html
+=======
+
+***
+
+## งาน PDPA และกฏหมาย นโยบาย
+- [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
+#### Security Framework 
+- NIST Framework  https://www.nist.gov/cyberframework
+- MITRE ATTACK - https://attack.mitre.org/
+##### Open Data  
+-  https://data.go.th/
+
+##### Digital Certificate 
+-  [LINK ภายใน : ข้อมูลและกฏหมาย ลายเซ็นอิเล็กทรอนิกส์](./sign/digital_signature.md)
+
+
+
+***
+>>>>>>> 1c477417cbff7f7b6f5f5403625f367a47dc7f6e
 #### Backtrack 
 - Site - https://www.backtrack-linux.org/
 - Kali - https://www.kali.org/ 
@@ -140,15 +137,14 @@ tps2015gh/fullstack_info_th
     - https://linuxstans.com/debian-vs-ubuntu/
     - https://www.hecticgeek.com/debian-vs-ubuntu-the-ultimate-showdown/
 
-======
-
-## Ransomware Group 
+#### Ransomware Group 
 - APT statistic - https://apt.etda.or.th/cgi-bin/aptstats.cgi
 - Conti - https://en.wikipedia.org/wiki/Conti_(ransomware)
 - Cl0p  - https://www.sangfor.com/blog/cybersecurity/Cl0p-ransomware-gang-what-you-need-to-know
 - BlackCat - https://apt.etda.or.th/cgi-bin/showcard.cgi?g=ALPHV%2C%20BlackCat%20Gang&n=1
 - List All Group - https://apt.etda.or.th/cgi-bin/listgroups.cgi
 - Threat Group Tools list - https://apt.etda.or.th/cgi-bin/listtools.cgi
+<<<<<<< HEAD
 ## version control 
 - Git  - https://git-scm.com/ 
   - Tutorial from w3schools  - https://www.w3schools.com/git/
@@ -163,6 +159,9 @@ tps2015gh/fullstack_info_th
 -  NIST Framework  https://www.nist.gov/cyberframework
 - MITRE ATTACK - https://attack.mitre.org/
 ## Vulnerabilities Scanner (ลิงค์ภายนอก)
+=======
+#### Vulnerabilities Scanner (ลิงค์ภายนอก)
+>>>>>>> 1c477417cbff7f7b6f5f5403625f367a47dc7f6e
 - [x] [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner)
 - [x] OWASP Zap Proxy 
   - [x]  https://www.zaproxy.org/
@@ -171,15 +170,95 @@ tps2015gh/fullstack_info_th
   - [x] วิธีใช้งาน Kali Linux – OWASP Zap – Active Scan - https://sysadmin.psu.ac.th/2016/10/17/using-kali-linux-owasp-zap-active-scan/
   - [ ] metasploit document  - https://docs.metasploit.com/
 
+#### Windows Registry Reference 
+  - Windows Registry Reference - https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
+  - Windows Registry Reference (F5) - https://techdocs.f5.com/en-us/bigip-16-0-0/big-ip-access-policy-manager-visual-policy-editor/windows-registry-reference.html
+***
+#### SNMP MIB Lookup 
+- Online MIB Browser (SNMP): OID Lookup & SNMP MIB Viewer
+  - https://bestmonitoringtools.com/mibdb/mibdb_search.php
+  
+***
 
 ## Excel Advance 
 - [x] [Excel Data Processing](./excel/excel_with_data.md)
 
+****
 ## [My Web Apps](./apps/myWebApp)
--  [ ] check .gitignore
--  [ ] Hidden
--  [ ] check git add .
--  [ ] git init 
--  [ ] upload to github 
+-  [x] check .gitignore
+ 
 
+***
+### Bower To YARN !!! 
+- Bower - https://bower.io/
+  - > ...psst! While Bower is maintained, we recommend using Yarn and Vite for front-end projects. Read how to migrate!
+- https://bower.io/blog/2017/how-to-migrate-away-from-bower/
+
+- (from page) psst! While Bower is maintained, we recommend using Yarn and Vite for front-end projects. Read how to migrate!
+- (from page) I focused on this for a while and the result is pleasing: Yarn 1.x is able to install most of Bower packages. But there’s a catch: it cannot resolve Bower dependencies.
+- (from page) หลังจากติดั้ง yarn 1.x แล้ว ให้ติดตั้ ว bower-away  
+- after install Yarn 1.x , install bower-away  https://github.com/sheerun/bower-away
+  - yarn global add bower-away # or "npm install -g bower-away"
+bower-away # listen and repeat!
+##### Migrate to yarn (under developement)
+ 1. npm i -g corepack
+ 2. corepack enable
+ 3. corepack prepare yarn@stable --activate
+ 4. yarn set version stable
+
+##### Install Yarn for Migrate bower (success)
+```text
+ nvm list
+ nvm install 18.16.0
+ nvm use 18.16.0
+ npm install -g yarn
+ npm update
+ yarn -v
+
+```
+
+#####change yarn to version 1.x
+
+```text
+>1.22.19
+> #ต้องเปลี่ยน yarn เป็น version 1.x ก่อนด้วย 
+>ตั้งค่า version เก่า 1.x
+yarn set version stable
+yarn -v 
+> 3.6.0
+yarn set version 1.22.19
+yarn -v
+```
+
+##(last update 2566-06-22-1712)
+
+##### Corepack 
+https://nodejs.org/dist/latest/docs/api/corepack.html
+  
+##### yarn 
+- https://yarnpkg.com/
+- get start - https://yarnpkg.com/getting-started
+##### vite.js 
+- https://vitejs.dev/
+- get start - https://vitejs.dev/guide/
+
+***
+
+#### [GitHub Document](./github/github_doc.md)
+
+***
+
+#### Markdown Syntax 
+- Markdown - Tutorials
+  - https://www.w3schools.io/file/markdown-introduction/
+  - List  - https://www.w3schools.io/file/markdown-list/
+
+
+####  Generator 
+- QRCode Generator 
+  - https://www.the-qrcode-generator.com/
+- Random Number Generator 
+  - https://www.calculator.net/random-number-generator.html
+- phasephase generator 
+  - https://codebeautify.org/generate-random-string
 

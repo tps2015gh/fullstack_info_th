@@ -22,11 +22,13 @@
 ### start code  
 - Create Express Server > start with  
 
-> const express = require('express');
-> const app = express();
-
-###  Code to wait query from browser and respose is : 
+```javascript
+const express = require('express');
+const app = express();
 ```
+###  Code to wait query from browser and respose is : 
+
+```javascript
 const express = require('express');
 const app = express();
 app.get('/', (req, res) => {
@@ -34,13 +36,14 @@ app.get('/', (req, res) => {
 });
 ```
 
-===================================
+***
 ### สามารถทำเป็นหลาย  URL Path ได้ด้วย  
 
-> const express = require('express');
->const app = express();
+```javascript
+const express = require('express');
+const app = express();
 
->app.use((req, res, next) => {
+app.use((req, res, next) => {
   console.log('Time: ', Date.now());
   next();
 });
@@ -55,5 +58,6 @@ app.get('/', (req, res) => {
 });
 
 > app.listen(3000, () => console.log('Example app is listening on port 3000.'));
+```
 
 ในตัวอย่าง เว็บนี้ ระบุตอนท้ายว่า สามารถทำ index อัตโนมัติได้ด้วย . แต่คิดว่าไม่จำเป็นในที่นี้จึงไม่ทำเอกสารไว้ 
