@@ -127,11 +127,18 @@ tps2015gh/fullstack_info_th
 - Download : https://ubuntu.com/download
 #### Alpine Linux (For Docker)
 - Site - https://www.alpinelinux.org/ 
+- Package - https://pkgs.alpinelinux.org/packages
+- install pakagew with apk - https://docs.alpinelinux.org/user-handbook/0.1a/Working/apk.html
+- OpenRC - https://docs.alpinelinux.org/user-handbook/0.1a/Working/openrc.html
 #### Backtrack 
 - Site - https://www.backtrack-linux.org/
 - Kali - https://www.kali.org/ 
   - Kali Document - https://www.kali.org/docs/
   - Kali Tools Document - https://www.kali.org/tools/
+#### Debian 
+  - Debian vs Ubuntu: A Detailed Comparison
+    - https://linuxstans.com/debian-vs-ubuntu/
+    - https://www.hecticgeek.com/debian-vs-ubuntu-the-ultimate-showdown/
 
 ======
 
@@ -145,6 +152,11 @@ tps2015gh/fullstack_info_th
 ## version control 
 - Git  - https://git-scm.com/ 
   - Tutorial from w3schools  - https://www.w3schools.com/git/
+- Git : Push Pull ข้าม Folder 
+  - https://stackoverflow.com/questions/3402599/how-do-you-merge-two-git-branches-that-are-in-different-local-repos-folders?fbclid=IwAR3WR2QiQ9ErNgE_789IZOvzWPMcANNy5hDhg3QFU5L-abVg7jJe6plngVU
+- Setup and install GitLab
+  - https://about.gitlab.com/install/
+  
 
 ## งาน PDPA และกฏหมาย นโยบาย
 - [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
