@@ -108,11 +108,17 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - Download : https://ubuntu.com/download
 ##### Alpine Linux (For Docker)
 - Site - https://www.alpinelinux.org/ 
+<<<<<<< HEAD
+- Package - https://pkgs.alpinelinux.org/packages
+- install pakagew with apk - https://docs.alpinelinux.org/user-handbook/0.1a/Working/apk.html
+- OpenRC - https://docs.alpinelinux.org/user-handbook/0.1a/Working/openrc.html
+=======
 
 ***
-
 ## งาน PDPA และกฏหมาย นโยบาย
 - [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
+-  NIST Framework  https://www.nist.gov/cyberframework
+- MITRE ATTACK - https://attack.mitre.org/
 #### Security Framework 
 - NIST Framework  https://www.nist.gov/cyberframework
 - MITRE ATTACK - https://attack.mitre.org/
@@ -121,15 +127,16 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 
 ##### Digital Certificate 
 -  [LINK ภายใน : ข้อมูลและกฏหมาย ลายเซ็นอิเล็กทรอนิกส์](./sign/digital_signature.md)
-
-
-
 ***
 #### Backtrack 
 - Site - https://www.backtrack-linux.org/
 - Kali - https://www.kali.org/ 
   - Kali Document - https://www.kali.org/docs/
   - Kali Tools Document - https://www.kali.org/tools/
+#### Debian 
+  - Debian vs Ubuntu: A Detailed Comparison
+    - https://linuxstans.com/debian-vs-ubuntu/
+    - https://www.hecticgeek.com/debian-vs-ubuntu-the-ultimate-showdown/
 
 #### Ransomware Group 
 - APT statistic - https://apt.etda.or.th/cgi-bin/aptstats.cgi
@@ -138,7 +145,18 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - BlackCat - https://apt.etda.or.th/cgi-bin/showcard.cgi?g=ALPHV%2C%20BlackCat%20Gang&n=1
 - List All Group - https://apt.etda.or.th/cgi-bin/listgroups.cgi
 - Threat Group Tools list - https://apt.etda.or.th/cgi-bin/listtools.cgi
+<<<<<<< HEAD
+## version control 
+- Git  - https://git-scm.com/ 
+  - Tutorial from w3schools  - https://www.w3schools.com/git/
+- Git : Push Pull ข้าม Folder 
+  - https://stackoverflow.com/questions/3402599/how-do-you-merge-two-git-branches-that-are-in-different-local-repos-folders?fbclid=IwAR3WR2QiQ9ErNgE_789IZOvzWPMcANNy5hDhg3QFU5L-abVg7jJe6plngVU
+- Setup and install GitLab
+  - https://about.gitlab.com/install/
+  
+***
 #### Vulnerabilities Scanner (ลิงค์ภายนอก)
+>>>>>>> 1c477417cbff7f7b6f5f5403625f367a47dc7f6e
 - [x] [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner)
 - [x] OWASP Zap Proxy 
   - [x]  https://www.zaproxy.org/
