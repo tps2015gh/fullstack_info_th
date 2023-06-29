@@ -29,7 +29,12 @@
   - Download or install - https://www.typescriptlang.org/download
   - Get Started - https://www.typescriptlang.org/docs 
   - TS Config Reference - https://www.typescriptlang.org/tsconfig 
-
+  
+  - ###### Cast Type 
+    - https://www.w3schools.com/typescript/typescript_casting.php
+    - https://www.typescripttutorial.net/typescript-tutorial/type-casting/
+    - https://dev.to/smpnjn/type-casting-in-typescript-2m2m
+  
 
 
 - ##### Dart  (for Fluttr Developer)

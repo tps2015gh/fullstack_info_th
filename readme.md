@@ -1,7 +1,13 @@
  
 tps2015gh/fullstack_info_th
 ===============================
-(last update 2566-06-23-2023)
+(last update 2566-06-29-1013)
+
+----
+เขียนโปรแกรม 
+javascript,typescript,php,go,python,markdown,dart,powershell
+###  [Dev,Coding > Programming Language](./dev/dev_language.md) 
+---
 
 ### Setup Windows Server 
 #### On Google Cloud Plateform 
@@ -44,8 +50,6 @@ tps2015gh/fullstack_info_th
 - [x] [การใช้งาน Markdown](markdown_using.md)
 - [x] [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
 
-
-####  [Dev > Programming Language](./dev/dev_language.md)
 
 ### ClientSide  > Design Tools
 - Figma
