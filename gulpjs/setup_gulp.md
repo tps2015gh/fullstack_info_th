@@ -1,4 +1,4 @@
-##### > [ติดตั้ง Gulp.js](./setup_gulp.md) | [Back](../readme.md)
+##### > [ติดตั้ง Gulp.js](./setup_gulp.md) | [Back to Readme](../readme.md)
 
 ***
 #### หน้าหลัก Gulp.js
@@ -13,6 +13,7 @@
 #### บทความ
 - Gulp คืออะไร 
   -  https://code-web-developer.blogspot.com/2014/07/gulpjs.html
+  -  ![](../_images/circle_red_16.png) [ทดสอบทำตาม](./test_01.md)
   
 - บันทึก: การใช้งาน gulp (2018)
   - https://geidtiphong.medium.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-gulp-5f5e0715314c
