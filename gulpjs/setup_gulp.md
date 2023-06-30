@@ -13,7 +13,10 @@
 #### บทความ
 - Gulp คืออะไร 
   -  https://code-web-developer.blogspot.com/2014/07/gulpjs.html
-  -  ![](../_images/circle_red_16.png) [ทดสอบทำตาม](./test_01.md)
+  -  ![](../_images/circle_red_16.png) [ทดสอบทำตาม 1. รัน task](./test_01.md)
+  -  ![](../_images/circle_red_16.png) [ทดสอบทำตาม 2. watch file change](./test_02_watchfile.md)
+  - ![](../_images/circle_red_16.png) [แก้ไข Gulp Error > The following tasks did not complete: default](./test_02b_correct_error.md)
+        -  
   
 - บันทึก: การใช้งาน gulp (2018)
   - https://geidtiphong.medium.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-gulp-5f5e0715314c
