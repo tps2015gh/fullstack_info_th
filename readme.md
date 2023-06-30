@@ -6,7 +6,7 @@ tps2015gh/fullstack_info_th
 ----
 เขียนโปรแกรม 
 javascript,typescript,php,go,python,markdown,dart,powershell
-###  [Dev,Coding > Programming Language](./dev/dev_language.md) 
+### ![](./_images/circle_red_16.png) [Dev,Coding > Programming Language](./dev/dev_language.md) 
 
 #### Front-End Developer 
 ![](./_images/circle_red_16.png) [ ติดตั้ง Gulp.js](./gulpjs/setup_gulp.md)
@@ -51,8 +51,8 @@ javascript,typescript,php,go,python,markdown,dart,powershell
     - https://learn.microsoft.com/en-us/system-center/scom/obtain-certificate-windows-server-and-operations-manager?view=sc-om-2022&tabs=Enterp%2CEnter
 *** 
 ## การใช้งาน MarkDown 
-- [x] [การใช้งาน Markdown](markdown_using.md)
-- [x] [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
+- ![](./_images/circle_red_16.png) [การใช้งาน Markdown](markdown_using.md)
+- ![](./_images/circle_red_16.png) [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
 
 
 ### ClientSide  > Design Tools
@@ -60,16 +60,16 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   https://blog.skooldio.com/figma-ui-design-tool/
 
 ##  SaSS 
-  - [x] [SASS package](./css/sass.md)
+  ![](./_images/circle_red_16.png) [SASS package](./css/sass.md)
 
 ## Package Maneger 
-- [x] ### [Package manager Chocolatey](./packagemanger/chocolatey_pm.md)
+![](./_images/circle_red_16.png) [Package manager Chocolatey](./packagemanger/chocolatey_pm.md)
 
 ##  Infrastructure as Code (IoC)
 
-- [x] [Docker](./infra_as_code/Docker.md)
-- [x] Puppet  รออ่าน 
-- [x] TerraForm - รออ่าน
+- ![](./_images/circle_red_16.png) [Docker](./infra_as_code/Docker.md)
+-  Puppet  รออ่าน 
+-  TerraForm - รออ่าน
 
 ## WAMP LAMP Nginx
 - XAMPP - 
@@ -91,7 +91,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - MongoDB - https://www.mongodb.com/
 - PostgreSQL - https://www.postgresql.org/
 - phpMyAdmin - https://www.phpmyadmin.net/
-- 
+  
 ## Mobile Developement Tools
   - Android Studio - https://developer.android.com/studio
   - XCode - https://developer.apple.com/xcode/
@@ -101,7 +101,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - notepad++ - https://code.visualstudio.com/
 - Sublime Text - https://www.sublimetext.com/
 
- - 
+  
 ##### version control 
 - Git  - https://git-scm.com/ 
   - Tutorial from w3schools  - https://www.w3schools.com/git/
@@ -116,7 +116,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - Package - https://pkgs.alpinelinux.org/packages
 - install pakagew with apk - https://docs.alpinelinux.org/user-handbook/0.1a/Working/apk.html
 - OpenRC - https://docs.alpinelinux.org/user-handbook/0.1a/Working/openrc.html
-=======
+
 
 ***
 ## งาน PDPA และกฏหมาย นโยบาย
@@ -130,7 +130,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 -  https://data.go.th/
 
 ##### Digital Certificate 
--  [LINK ภายใน : ข้อมูลและกฏหมาย ลายเซ็นอิเล็กทรอนิกส์](./sign/digital_signature.md)
+- ![](./_images/circle_red_16.png) [LINK ภายใน : ข้อมูลและกฏหมาย ลายเซ็นอิเล็กทรอนิกส์](./sign/digital_signature.md)
 ***
 #### Backtrack 
 - Site - https://www.backtrack-linux.org/
@@ -161,7 +161,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 ***
 #### Vulnerabilities Scanner (ลิงค์ภายนอก)
 >>>>>>> 1c477417cbff7f7b6f5f5403625f367a47dc7f6e
-- [x] [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner)
+- ![](./_images/circle_red_16.png) [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner)
 - [x] OWASP Zap Proxy 
   - [x]  https://www.zaproxy.org/
   - [x]  Getting Started - https://www.zaproxy.org/getting-started/
@@ -180,12 +180,8 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 ***
 
 ## Excel Advance 
-- [x] [Excel Data Processing](./excel/excel_with_data.md)
+- ![](./_images/circle_red_16.png)  [Excel Data Processing](./excel/excel_with_data.md)
 
-****
-## [My Web Apps](./apps/myWebApp)
--  [x] check .gitignore
- 
 
 ***
 ### Bower To YARN !!! 
@@ -243,7 +239,7 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 
 ***
 
-#### [GitHub Document](./github/github_doc.md)
+#### ![](./_images/circle_red_16.png) [GitHub Document](./github/github_doc.md)
 
 ***
 
