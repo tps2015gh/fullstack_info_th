@@ -112,7 +112,6 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - Download : https://ubuntu.com/download
 ##### Alpine Linux (For Docker)
 - Site - https://www.alpinelinux.org/ 
-<<<<<<< HEAD
 - Package - https://pkgs.alpinelinux.org/packages
 - install pakagew with apk - https://docs.alpinelinux.org/user-handbook/0.1a/Working/apk.html
 - OpenRC - https://docs.alpinelinux.org/user-handbook/0.1a/Working/openrc.html
@@ -149,7 +148,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - BlackCat - https://apt.etda.or.th/cgi-bin/showcard.cgi?g=ALPHV%2C%20BlackCat%20Gang&n=1
 - List All Group - https://apt.etda.or.th/cgi-bin/listgroups.cgi
 - Threat Group Tools list - https://apt.etda.or.th/cgi-bin/listtools.cgi
-<<<<<<< HEAD
+
 ## version control 
 - Git  - https://git-scm.com/ 
   - Tutorial from w3schools  - https://www.w3schools.com/git/
@@ -160,7 +159,6 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   
 ***
 #### Vulnerabilities Scanner (ลิงค์ภายนอก)
->>>>>>> 1c477417cbff7f7b6f5f5403625f367a47dc7f6e
 - ![](./_images/circle_red_16.png) [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner)
 - [x] OWASP Zap Proxy 
   - [x]  https://www.zaproxy.org/
