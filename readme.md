@@ -11,7 +11,16 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 #### Front-End Developer 
 ![](./_images/circle_red_16.png) [ ติดตั้ง Gulp.js](./gulpjs/setup_gulp.md)
 
+--- 
+### GitLab 
+  - https://monsterconnect.co.th/gitlab/ (ภาษาไทย)
 
+### CI/CD  
+  - https://www.weave.works/blog/cicd-for-kubernetes-what-you-need-to-know
+  - https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/
+  
+### Docker 
+  - https://www.docker.com/get-started/
 ---
 ### Setup Windows Server 
 #### On Google Cloud Plateform 
