@@ -1,7 +1,13 @@
+##### > [ติดตั้ง Gulp.js](./setup_gulp.md) | [Back readme.md](../readme.md)
+---
+####ทดสอบตาม URL https://code-web-developer.blogspot.com/2014/07/gulpjs.html
+---
 
-#### Solve Gulp Error 
+#### แก้ไข Solve Gulp Error 
 ##### The following tasks did not complete: default
 **อ่้างอิง** :  https://stackoverflow.com/questions/36897877/gulp-error-the-following-tasks-did-not-complete-did-you-forget-to-signal-async
+
+---
 
 Error ที่พบ 
 ```js
