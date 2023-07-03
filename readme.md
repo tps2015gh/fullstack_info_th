@@ -202,7 +202,8 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   
 ***
 #### Vulnerabilities Scanner (ลิงค์ภายนอก)
-- ![](./_images/circle_red_16.png) [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner)
+- ![](./_images/circle_red_16.png) [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner.md)
+
 - [x] OWASP Zap Proxy 
   - [x]  https://www.zaproxy.org/
   - [x]  Getting Started - https://www.zaproxy.org/getting-started/
