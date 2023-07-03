@@ -10,7 +10,8 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 
 #### Front-End Developer 
 ![](./_images/circle_red_16.png) [ ติดตั้ง Gulp.js](./gulpjs/setup_gulp.md)
-![](./_images/circle_red_16.png) [less.css](https://lesscss.org/)
+
+### [less.css](https://lesscss.org/)
 --- 
 ### GitLab 
   - https://monsterconnect.co.th/gitlab/ (ภาษาไทย)
