@@ -265,13 +265,16 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 ส่วนคำสั่ง COPY จะยังไม่ใช้
 > COPY src/ /var/www/html 
 
-ในการ Deploy Production 
+
+> ในการ Deploy Production 
 เคยเห็น คนที่ทำงานจริง เขาก็ MapDrive แทน 
 เพราะ ต้องแก้โค้ด และ ทำการปรับแต่ Code บ่อยๆ อาจพัฒนาโปรแกรมหลายเดือน จึง ใช้ Map Folder แบบข้างต้นแทน 
 รวมทั้ง Data File ต่างๆ ก็ map folder 
 เพื่อให้ง่ายในการ backup ข้อมูล 
 
-แต่เรา สามารถ เพิ่ม component ต่างๆ เข้าใน Dockerfile ได้อีก 
-แล้ว build ซ้ำแล้วเลือกรัน docker run ได้ 
+> แต่เรา สามารถ เพิ่ม component ต่างๆ เข้าใน Dockerfile ได้อีก  
+แล้ว build ซ้ำแล้วเลือกรัน docker run ได้
 
----
+--- 
+
+(end-of-file)
