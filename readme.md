@@ -10,7 +10,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 
 #### Front-End Developer 
 ![](./_images/circle_red_16.png) [ ติดตั้ง Gulp.js](./gulpjs/setup_gulp.md)
-
+![](./_images/circle_red_16.png) [less.css](https://lesscss.org/)
 --- 
 ### GitLab 
   - https://monsterconnect.co.th/gitlab/ (ภาษาไทย)
@@ -18,6 +18,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 ### CI/CD  
   - https://www.weave.works/blog/cicd-for-kubernetes-what-you-need-to-know
   - https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/
+
   
 ### Docker 
   - https://www.docker.com/get-started/
@@ -139,6 +140,35 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 
 ##### Digital Certificate 
 - ![](./_images/circle_red_16.png) [LINK ภายใน : ข้อมูลและกฏหมาย ลายเซ็นอิเล็กทรอนิกส์](./sign/digital_signature.md)
+- บริการออกใบรับรองอิเล็กทรอนิกส์ (ของ ETDA) - https://www.etda.or.th/th/Our-Service/Digital-Trusted-services-Infrastructure/NRCA/Certifications/Example-1/content-certification-service-register.aspx
+###### Product for PKI - Link
+- SignServer (Product) - https://www.signserver.org/
+- EJBCA -  Installation -  https://certs.advania.is/doc/installation.html
+- EJBCA - Installation - https://doc.primekey.com/ejbca6152/tutorials-and-guides/quick-start-guide
+---
+#### PKI Tools/Server
+###### EJBCA
+- Generate subdomain certificate from valid wildcard certificate - https://serverfault.com/questions/749741/generate-subdomain-certificate-from-valid-wildcard-certificate
+- Migrate your Microsoft CA to EJBCA -  https://www.primekey.com/solutions/pki-migration/adcs-migration/
+- Install with Docker - https://doc.primekey.com/ejbca/tutorials-and-guides/tutorial-start-out-with-ejbca-docker-container
+- Install with Docker - https://hub.docker.com/r/primekey/ejbca-ce
+##### PKI - Windows Authorization CA - Web Enrollment - Topic 
+  - Problem with CA Web Enrolment in Windows Server 2022 -  https://learn.microsoft.com/en-us/answers/questions/692468/problem-with-ca-web-enrolment-in-windows-server-20
+  - How to configure the Windows Server 2008 CA Web Enrollment Proxy-  https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/how-to-configure-the-windows-server-2008-ca-web-enrollment-proxy/ba-p/396255
+
+  - Configuring Certificate Enrollment Web Service for certificate key-based renewal on a custom port -  https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/certificate-enrollment-certificate-key-based-renewal
+  - Youtube -Install Certification Authority Web Enrollment Windows Server 2022! - https://www.youtube.com/watch?v=NrsAAdVrn5s
+
+
+#### PKI - Windows 
+  -  Understanding Active Directory Certificate Services containers in Active Directory   -  https://www.pkisolutions.com/understanding-active-directory-certificate-services-containers-in-active-directory/
+
+#### PKI :  OpenXPKI
+- Main page - https://openxpki.readthedocs.io/
+- Quick Start / Installation - https://openxpki.readthedocs.io/en/develop/quickstart.html
+- OpenXPKI : Docker Image - https://registry.hub.docker.com/r/larskanis/openxpki
+
+
 ***
 #### Backtrack 
 - Site - https://www.backtrack-linux.org/
