@@ -206,6 +206,15 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - Debian vs Ubuntu: A Detailed Comparison
     - https://linuxstans.com/debian-vs-ubuntu/
     - https://www.hecticgeek.com/debian-vs-ubuntu-the-ultimate-showdown/
+  
+#### Debian Linux : Setup Apache PHP MySQL
+- I Tested with : 
+  - Linux ubuntu1 4.19.0-24-cloud-amd64 #1 SMP Debian 4.19.282-1 (2023-04-29) x86_64 GNU/Linux)
+- Tutorial // How To Install Linux, Apache, MariaDB, PHP (LAMP) stack on Debian 11
+  - year 2022 , Tested with Debian  OK  
+  - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mariadb-php-lamp-stack-on-debian-11
+
+  - set ufw (user firewall) (  Tested with Debian  OK  ) - https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-11#step-4-setting-up-a-basic-firewall
 
 #### Ransomware Group 
 - APT statistic - https://apt.etda.or.th/cgi-bin/aptstats.cgi
