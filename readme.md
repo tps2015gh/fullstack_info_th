@@ -98,6 +98,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 ## Database & Tools
 - MySQL -  https://www.mysql.com/
 - MariaDB - https://mariadb.org/
+  - MariaDB Sponsor - https://mariadb.org/donate/#corporate-sponsorships
 - MongoDB - https://www.mongodb.com/
 - PostgreSQL - https://www.postgresql.org/
 - phpMyAdmin - https://www.phpmyadmin.net/
@@ -128,6 +129,24 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 
 
 ***
+
+### กฏหมายธุรกรรม อิเล็กทรอนิกส์ 
+- กฎหมายธุรกรรมทางอิเล็กทรอนิกส์ - https://www.etda.or.th/th/Useful-Resource/laws-sharing.aspx
+  - พระราชบัญญัติสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2562
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2544 (ฉบับอัพเดท)
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2544
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ (ฉบับที่ 2) พ.ศ. 2551
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ (ฉบับที่ 3) พ.ศ. 2562
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ (ฉบับที่ 4) พ.ศ. 2562
+  - พระราชกฤษฎีกาว่าด้วยวิธีการแบบปลอดภัยในการทำธุรกรรมทางอิเล็กทรอนิกส์
+  - พระราชกฤษฎีกาการประกอบธุรกิจบริการแพลตฟอร์มดิจิทัลที่ต้องแจ้งให้ทราบ
+  - พระราชกฤษฎีกาว่าด้วยการควบคุมดูแลธุรกิจบริการเกี่ยวกับระบบการพิสูจน์และยืนยันตัวตนทางดิจิทัลที่ต้องได้รับใบอนุญาต
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวทางการจัดทำแนวนโยบาย(Certificate Policy) และแนวปฏิบัติ (Certification Practice Statement) ของผู้ให้บริการออกใบรับรองอิเล็กทรอนิกส์ (Certification Authority) พ.ศ. 2552
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง หลักเกณฑ์และวิธีการในการจัดทำหรือแปลงเอกสารและข้อความให้อยู่ในรูปของข้อมูลอิเล็กทรอนิกส์
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง การรับรองสิ่งพิมพ์ออก พ.ศ. 2555
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง หน่วยงานรับรองสิ่งพิมพ์ออก พ.ศ. 2555
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวทางการใช้บริการคลาวด์ พ.ศ. 2562
+  - ประกาศสำนักนายกรัฐมนตรี เรื่อง แต่งตั้งประธานกรรมการและกรรมการผู้ทรงคุณวุฒิ ในคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์
 ## งาน PDPA และกฏหมาย นโยบาย
 - [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
 -  NIST Framework  https://www.nist.gov/cyberframework
@@ -145,6 +164,9 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - SignServer (Product) - https://www.signserver.org/
 - EJBCA -  Installation -  https://certs.advania.is/doc/installation.html
 - EJBCA - Installation - https://doc.primekey.com/ejbca6152/tutorials-and-guides/quick-start-guide
+- What is PKI - https://www.keyfactor.com/education-center/what-is-pki/
+- What is PKI - https://www.digicert.com/what-is-pki
+- PKI ( Public key infrastructure ) -  https://en.wikipedia.org/wiki/Public_key_infrastructure
 ---
 #### PKI Tools/Server
 ###### EJBCA
@@ -278,14 +300,18 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 
 #### ![](./_images/circle_red_16.png) [GitHub Document](./github/github_doc.md)
 
-***
 
-#### Markdown Syntax 
-- Markdown - Tutorials
+##### (MD)Markdown Syntax 
+-  Markdown - Tutorials
   - https://www.w3schools.io/file/markdown-introduction/
   - List  - https://www.w3schools.io/file/markdown-list/
+##### rst (reStructuredText ) (คล้าย markdown แต่ซับซ้อนกว่า)
+ -  Markdown vs reStructured Text - https://nikhilakki.in/markdown-vs-restructured-text
+ - reStructuredText Primer - https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html?fbclid=IwAR0OP5JY07-2B56BtuwSuwkqiNwemPG8ZjpwA8U5kiFCoPyIEH3qKkkDN4A
+ - Markdown and reStructuredText - https://gist.github.com/dupuy/1855764?fbclid=IwAR1w2EA1rZETYoAFqMrINlBfaNtboJ96IoCj_T4R-5_duQ2fSX_MoHHer-U
+ - [Test RST - rst_test01](./rst/rst_test01.rst)
 
-
+---
 ####  Generator 
 - QRCode Generator 
   - https://www.the-qrcode-generator.com/
