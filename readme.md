@@ -21,7 +21,34 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/
 
   
----
+--- 
+###  K8S  - Kubernetes
+  - Main Site : https://kubernetes.io/
+  - kind k8s  - https://kind.sigs.k8s.io/
+  
+
+### K3s - Lightweight Kubernetes
+- K3S - https://docs.k3s.io/
+- Setup K3D: K3s บน Docker รวดเร็วดั่งติดปีก
+  - https://youtu.be/dRUEwnq-xxM
+- K3S Setup: K8s ขนาดเล็กแต่แรงไม่ธรรมดา https://www.youtube.com/watch?v=L0C39xgWWKQ
+
+### Rancher Desktop 
+-  Main Site : https://rancherdesktop.io/
+-  Rancher Desktop คืออะไร 
+   -  https://blog.openlandscape.cloud/what-is-rancher
+ - มาลองของใหม่กับ Rancher Desktop  - https://ai1love6.medium.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B8%B1%E0%B8%9A-rancher-desktop-67b5cbac3cf
+- Rancher Desktop  vs Docker Desktop  
+   -  https://codeengineered.com/blog/2022/docker-desktop-vs-rancher-desktop/
+-  Rancher Desktop  
+  - https://www.youtube.com/watch?v=5SVw8KAdE7E
+- Rancher Desktop 1.3 demo
+  - https://www.youtube.com/watch?v=52SttORxVWo
+
+### WSL2 
+- WSL =  Windows Subsystem for Linux
+- WSL Guide  - https://github.com/mikeroyal/WSL-Guide 
+ 
 ### Docker 
   - https://www.docker.com/get-started/
   - บันทึกนักพัฒนา: Docker Container 101 แล้วเราจะคิดถึงนายนะ WAMP, XAMPP, … (2018)
@@ -334,4 +361,6 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
   - https://www.calculator.net/random-number-generator.html
 - phasephase generator 
   - https://codebeautify.org/generate-random-string
+
+
 
