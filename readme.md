@@ -20,18 +20,23 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - https://www.weave.works/blog/cicd-for-kubernetes-what-you-need-to-know
   - https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/
 
-  
 --- 
 ###  K8S  - Kubernetes
   - Main Site : https://kubernetes.io/
   - kind k8s  - https://kind.sigs.k8s.io/
-  
+  - ติดตั้ง Kubernetes บน Ubuntu 18.04
+    - https://www.jittagornp.me/blog/install-kubernetes-on-ubuntu-18.04/
+  - ติดตั้ง Kubernetes Dashboard (Web GUI) สำหรับ Monitor Kubernetes Cluster
+    - https://www.jittagornp.me/blog/install-kubernetes-dashboard/?series=k8s
+
 
 ### K3s - Lightweight Kubernetes
 - K3S - https://docs.k3s.io/
 - Setup K3D: K3s บน Docker รวดเร็วดั่งติดปีก
   - https://youtu.be/dRUEwnq-xxM
 - K3S Setup: K8s ขนาดเล็กแต่แรงไม่ธรรมดา https://www.youtube.com/watch?v=L0C39xgWWKQ
+- การใช้ K3 เพื่อเรียกใช้คลัสเตอร์ Kubernetes บนเครื่องพัฒนาของคุณ
+  - https://technoglitz.com/thailand/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-k3-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%84%E0%B8%A5/
 
 ### Rancher Desktop 
 -  Main Site : https://rancherdesktop.io/
