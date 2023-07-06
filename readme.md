@@ -49,6 +49,8 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - https://www.youtube.com/watch?v=5SVw8KAdE7E
 - Rancher Desktop 1.3 demo
   - https://www.youtube.com/watch?v=52SttORxVWo
+- Run Kubernetes on Windows 11/10 using Rancher Desktop
+  - https://techviewleo.com/run-kubernetes-on-windows-using-rancher-desktop/
 
 ### WSL2 
 - WSL =  Windows Subsystem for Linux
