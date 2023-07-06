@@ -38,6 +38,14 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - การใช้ K3 เพื่อเรียกใช้คลัสเตอร์ Kubernetes บนเครื่องพัฒนาของคุณ
   - https://technoglitz.com/thailand/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-k3-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%84%E0%B8%A5/
 
+### Docker 
+  - https://www.docker.com/get-started/
+  - บันทึกนักพัฒนา: Docker Container 101 แล้วเราจะคิดถึงนายนะ WAMP, XAMPP, … (2018)
+    - https://puuga.medium.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-docker-conntainer-101-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B0-wamp-xampp-e4c4bbf869b1
+    - ![](./_images/circle_red_16.png)[ทดลองทำตาม  LabDocker-1](./docker/labs01_lampp.md)
+
+
+---
 ### Rancher Desktop 
 -  Main Site : https://rancherdesktop.io/
 -  Rancher Desktop คืออะไร 
@@ -56,11 +64,6 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - WSL =  Windows Subsystem for Linux
 - WSL Guide  - https://github.com/mikeroyal/WSL-Guide 
  
-### Docker 
-  - https://www.docker.com/get-started/
-  - บันทึกนักพัฒนา: Docker Container 101 แล้วเราจะคิดถึงนายนะ WAMP, XAMPP, … (2018)
-    - https://puuga.medium.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-docker-conntainer-101-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B0-wamp-xampp-e4c4bbf869b1
-    - ![](./_images/circle_red_16.png)[ทดลองทำตาม  LabDocker-1](./docker/labs01_lampp.md)
 --- 
 ### Setup Windows Server 
 #### On Google Cloud Plateform 
