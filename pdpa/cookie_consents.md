@@ -1,13 +1,11 @@
 ## for HTML
 :link: ตัวอย่างการใช้ Cookie Consent เพื่อรองรับ PDPA แบบง่ายๆ
-    - https://blog.devahoy.com/blog/cookie-consent-demo
-    :ok: :star: :star: ลองแบบที่ 1 แล้ว  
-    แต่ยังแสดงกรอบ เป็น ภาษาอังกฤษ 
-    :question: สามารถแสดงเป็น ภาษาไทยได้ โดยตั้งค่า ที่ config json 
-     test  
-
-- [test01/index.html](./test01/index.html)
-- [test01/cc-init.js](./test01/cc-init.js)
+    - :blue_book: :white_check_mark:  Credit:  https://blog.devahoy.com/blog/cookie-consent-demo   :ok:   ลองแบบที่ 1 แล้ว  
+- :white_check_mark:  สามารถแสดงเป็น ภาษาไทยได้ โดยตั้งค่า ที่ config json 
+    
+- :blue_book: :white_check_mark: Credit [https://github.com/orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) 
+- :page_facing_up: :white_check_mark: [test01/index.html](./test01/index.html) 
+- :page_facing_up: :white_check_mark: [test01/cc-init.js](./test01/cc-init.js)
     
 
 --- 
