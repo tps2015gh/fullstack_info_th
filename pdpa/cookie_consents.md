@@ -1,6 +1,12 @@
 ## for HTML
-ตัวอย่างการใช้ Cookie Consent เพื่อรองรับ PDPA แบบง่ายๆ
-:link: https://blog.devahoy.com/blog/cookie-consent-demo
+:link: ตัวอย่างการใช้ Cookie Consent เพื่อรองรับ PDPA แบบง่ายๆ
+    - https://blog.devahoy.com/blog/cookie-consent-demo
+    :ok: :star: :star: ลองแบบที่ 1 แล้ว  
+    แต่ยังแสดงกรอบ เป็น ภาษาอังกฤษ 
+    :question: ไม่แน่ใจว่าสามารถแสดงเป็น ภาษาไทยได้หรือไม่ 
+     test  
+
+--- 
 
 :link:  Cookie Consent Banner | HTML, CSS & Javascript
 https://codingartistweb.com/2022/01/cookie-consent-banner-html-css-javascript/
