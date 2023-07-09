@@ -133,10 +133,11 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 
 
 ***
-## งาน PDPA และกฏหมาย นโยบาย
-- [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
--  NIST Framework  https://www.nist.gov/cyberframework
-- MITRE ATTACK - https://attack.mitre.org/
+#### งาน PDPA 
+- ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
+- ![](./_images/circle_red_16.png) [Cookie Consese Links](./pdpa/cookie_consents.md) 
+
+#### กฏหมาย นโยบาย IT Policy
 #### Security Framework 
 - NIST Framework  https://www.nist.gov/cyberframework
 - MITRE ATTACK - https://attack.mitre.org/
