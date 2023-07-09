@@ -3,8 +3,12 @@
     - https://blog.devahoy.com/blog/cookie-consent-demo
     :ok: :star: :star: ลองแบบที่ 1 แล้ว  
     แต่ยังแสดงกรอบ เป็น ภาษาอังกฤษ 
-    :question: ไม่แน่ใจว่าสามารถแสดงเป็น ภาษาไทยได้หรือไม่ 
+    :question: สามารถแสดงเป็น ภาษาไทยได้ โดยตั้งค่า ที่ config json 
      test  
+
+- [test01/index.html](./test01/index.html)
+- [test01/cc-init.js](./test01/cc-init.js)
+    
 
 --- 
 
