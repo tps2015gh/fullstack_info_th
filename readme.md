@@ -1,7 +1,9 @@
  
-tps2015gh/fullstack_info_th
+####tps2015gh/fullstack_info_th
 ===============================
-(last update 2566-06-29-1013)
+(last update 2566-07-09-1909)
+
+:thailand:
 
 ----
 เขียนโปรแกรม 
@@ -20,13 +22,51 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - https://www.weave.works/blog/cicd-for-kubernetes-what-you-need-to-know
   - https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/
 
-  
----
+--- 
+###  K8S  - Kubernetes
+  - Main Site : https://kubernetes.io/
+  - kind k8s  - https://kind.sigs.k8s.io/
+  - ติดตั้ง Kubernetes บน Ubuntu 18.04
+    - https://www.jittagornp.me/blog/install-kubernetes-on-ubuntu-18.04/
+  - ติดตั้ง Kubernetes Dashboard (Web GUI) สำหรับ Monitor Kubernetes Cluster
+    - https://www.jittagornp.me/blog/install-kubernetes-dashboard/?series=k8s
+
+
+### K3s - Lightweight Kubernetes
+- K3S - https://docs.k3s.io/
+- Setup K3D: K3s บน Docker รวดเร็วดั่งติดปีก
+  - https://youtu.be/dRUEwnq-xxM
+- K3S Setup: K8s ขนาดเล็กแต่แรงไม่ธรรมดา https://www.youtube.com/watch?v=L0C39xgWWKQ
+- การใช้ K3 เพื่อเรียกใช้คลัสเตอร์ Kubernetes บนเครื่องพัฒนาของคุณ
+  - https://technoglitz.com/thailand/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-k3-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%84%E0%B8%A5/
+
 ### Docker 
   - https://www.docker.com/get-started/
   - บันทึกนักพัฒนา: Docker Container 101 แล้วเราจะคิดถึงนายนะ WAMP, XAMPP, … (2018)
     - https://puuga.medium.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-docker-conntainer-101-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B0-wamp-xampp-e4c4bbf869b1
     - ![](./_images/circle_red_16.png)[ทดลองทำตาม  LabDocker-1](./docker/labs01_lampp.md)
+
+
+---
+### Rancher Desktop 
+-  Main Site : https://rancherdesktop.io/
+-  Rancher Desktop คืออะไร 
+   -  https://blog.openlandscape.cloud/what-is-rancher
+ - มาลองของใหม่กับ Rancher Desktop  - https://ai1love6.medium.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B8%B1%E0%B8%9A-rancher-desktop-67b5cbac3cf
+- Rancher Desktop  vs Docker Desktop  
+   -  https://codeengineered.com/blog/2022/docker-desktop-vs-rancher-desktop/
+-  Rancher Desktop  
+  - https://www.youtube.com/watch?v=5SVw8KAdE7E
+- Rancher Desktop 1.3 demo
+  - https://www.youtube.com/watch?v=52SttORxVWo
+- Run Kubernetes on Windows 11/10 using Rancher Desktop
+  - https://techviewleo.com/run-kubernetes-on-windows-using-rancher-desktop/
+  
+---
+### WSL2 
+- WSL =  Windows Subsystem for Linux
+- WSL Guide  - https://github.com/mikeroyal/WSL-Guide 
+ 
 --- 
 ### Setup Windows Server 
 #### On Google Cloud Plateform 
@@ -103,6 +143,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 ## Database & Tools
 - MySQL -  https://www.mysql.com/
 - MariaDB - https://mariadb.org/
+  - MariaDB Sponsor - https://mariadb.org/donate/#corporate-sponsorships
 - MongoDB - https://www.mongodb.com/
 - PostgreSQL - https://www.postgresql.org/
 - phpMyAdmin - https://www.phpmyadmin.net/
@@ -133,11 +174,31 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 
 
 ***
+ 
 #### งาน PDPA 
 - ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
 - ![](./_images/circle_red_16.png) [Cookie Consese Links](./pdpa/cookie_consents.md) 
 
-#### กฏหมาย นโยบาย IT Policy
+ 
+
+### กฏหมายธุรกรรม อิเล็กทรอนิกส์ 
+- กฎหมายธุรกรรมทางอิเล็กทรอนิกส์ - https://www.etda.or.th/th/Useful-Resource/laws-sharing.aspx
+  - พระราชบัญญัติสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2562
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2544 (ฉบับอัพเดท)
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2544
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ (ฉบับที่ 2) พ.ศ. 2551
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ (ฉบับที่ 3) พ.ศ. 2562
+  - พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ (ฉบับที่ 4) พ.ศ. 2562
+  - พระราชกฤษฎีกาว่าด้วยวิธีการแบบปลอดภัยในการทำธุรกรรมทางอิเล็กทรอนิกส์
+  - พระราชกฤษฎีกาการประกอบธุรกิจบริการแพลตฟอร์มดิจิทัลที่ต้องแจ้งให้ทราบ
+  - พระราชกฤษฎีกาว่าด้วยการควบคุมดูแลธุรกิจบริการเกี่ยวกับระบบการพิสูจน์และยืนยันตัวตนทางดิจิทัลที่ต้องได้รับใบอนุญาต
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวทางการจัดทำแนวนโยบาย(Certificate Policy) และแนวปฏิบัติ (Certification Practice Statement) ของผู้ให้บริการออกใบรับรองอิเล็กทรอนิกส์ (Certification Authority) พ.ศ. 2552
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง หลักเกณฑ์และวิธีการในการจัดทำหรือแปลงเอกสารและข้อความให้อยู่ในรูปของข้อมูลอิเล็กทรอนิกส์
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง การรับรองสิ่งพิมพ์ออก พ.ศ. 2555
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง หน่วยงานรับรองสิ่งพิมพ์ออก พ.ศ. 2555
+  - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวทางการใช้บริการคลาวด์ พ.ศ. 2562
+  - ประกาศสำนักนายกรัฐมนตรี เรื่อง แต่งตั้งประธานกรรมการและกรรมการผู้ทรงคุณวุฒิ ในคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์
+ 
 #### Security Framework 
 - NIST Framework  https://www.nist.gov/cyberframework
 - MITRE ATTACK - https://attack.mitre.org/
@@ -151,6 +212,9 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - SignServer (Product) - https://www.signserver.org/
 - EJBCA -  Installation -  https://certs.advania.is/doc/installation.html
 - EJBCA - Installation - https://doc.primekey.com/ejbca6152/tutorials-and-guides/quick-start-guide
+- What is PKI - https://www.keyfactor.com/education-center/what-is-pki/
+- What is PKI - https://www.digicert.com/what-is-pki
+- PKI ( Public key infrastructure ) -  https://en.wikipedia.org/wiki/Public_key_infrastructure
 ---
 #### PKI Tools/Server
 ###### EJBCA
@@ -185,6 +249,15 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - Debian vs Ubuntu: A Detailed Comparison
     - https://linuxstans.com/debian-vs-ubuntu/
     - https://www.hecticgeek.com/debian-vs-ubuntu-the-ultimate-showdown/
+  
+#### Debian Linux : Setup Apache PHP MySQL
+- I Tested with : 
+  - Linux ubuntu1 4.19.0-24-cloud-amd64 #1 SMP Debian 4.19.282-1 (2023-04-29) x86_64 GNU/Linux)
+- Tutorial // How To Install Linux, Apache, MariaDB, PHP (LAMP) stack on Debian 11
+  - year 2022 , Tested with Debian  OK  
+  - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mariadb-php-lamp-stack-on-debian-11
+
+  - set ufw (user firewall) (  Tested with Debian  OK  ) - https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-11#step-4-setting-up-a-basic-firewall
 
 #### Ransomware Group 
 - APT statistic - https://apt.etda.or.th/cgi-bin/aptstats.cgi
@@ -285,14 +358,18 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 
 #### ![](./_images/circle_red_16.png) [GitHub Document](./github/github_doc.md)
 
-***
 
-#### Markdown Syntax 
-- Markdown - Tutorials
+##### (MD)Markdown Syntax 
+-  Markdown - Tutorials
   - https://www.w3schools.io/file/markdown-introduction/
   - List  - https://www.w3schools.io/file/markdown-list/
+##### rst (reStructuredText ) (คล้าย markdown แต่ซับซ้อนกว่า)
+ -  Markdown vs reStructured Text - https://nikhilakki.in/markdown-vs-restructured-text
+ - reStructuredText Primer - https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html?fbclid=IwAR0OP5JY07-2B56BtuwSuwkqiNwemPG8ZjpwA8U5kiFCoPyIEH3qKkkDN4A
+ - Markdown and reStructuredText - https://gist.github.com/dupuy/1855764?fbclid=IwAR1w2EA1rZETYoAFqMrINlBfaNtboJ96IoCj_T4R-5_duQ2fSX_MoHHer-U
+ - [Test RST - rst_test01](./rst/rst_test01.rst)
 
-
+---
 ####  Generator 
 - QRCode Generator 
   - https://www.the-qrcode-generator.com/
@@ -300,4 +377,6 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
   - https://www.calculator.net/random-number-generator.html
 - phasephase generator 
   - https://codebeautify.org/generate-random-string
+
+
 
