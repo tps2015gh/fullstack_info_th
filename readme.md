@@ -1,7 +1,9 @@
  
-tps2015gh/fullstack_info_th
+####tps2015gh/fullstack_info_th
 ===============================
-(last update 2566-06-29-1013)
+(last update 2566-07-09-1909)
+
+:thailand:
 
 ----
 เขียนโปรแกรม 
@@ -172,6 +174,12 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 
 
 ***
+ 
+#### งาน PDPA 
+- ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
+- ![](./_images/circle_red_16.png) [Cookie Consese Links](./pdpa/cookie_consents.md) 
+
+ 
 
 ### กฏหมายธุรกรรม อิเล็กทรอนิกส์ 
 - กฎหมายธุรกรรมทางอิเล็กทรอนิกส์ - https://www.etda.or.th/th/Useful-Resource/laws-sharing.aspx
@@ -190,10 +198,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง หน่วยงานรับรองสิ่งพิมพ์ออก พ.ศ. 2555
   - ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวทางการใช้บริการคลาวด์ พ.ศ. 2562
   - ประกาศสำนักนายกรัฐมนตรี เรื่อง แต่งตั้งประธานกรรมการและกรรมการผู้ทรงคุณวุฒิ ในคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์
-## งาน PDPA และกฏหมาย นโยบาย
-- [x] ราชกิจจานุเบกษา  https://ratchakitcha.soc.go.th/
--  NIST Framework  https://www.nist.gov/cyberframework
-- MITRE ATTACK - https://attack.mitre.org/
+ 
 #### Security Framework 
 - NIST Framework  https://www.nist.gov/cyberframework
 - MITRE ATTACK - https://attack.mitre.org/
