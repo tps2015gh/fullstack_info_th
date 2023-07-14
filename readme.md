@@ -1,19 +1,18 @@
  
-####tps2015gh/fullstack_info_th
+##### tps2015gh/fullstack_info_th 
 ===============================
-(last update 2566-07-09-1909)
+(last update 2566-07-14-1035)(:thailand:)
 
-:thailand:
 
 ----
-เขียนโปรแกรม 
+#### เขียนโปรแกรม/Progamming/Coding
 javascript,typescript,php,go,python,markdown,dart,powershell
-### ![](./_images/circle_red_16.png) [Dev,Coding > Programming Language](./dev/dev_language.md) 
+##### ![](./_images/circle_red_16.png) [Dev,Coding > Programming Language](./dev/dev_language.md) 
 
-#### Front-End Developer 
+##### Front-End Developer 
 ![](./_images/circle_red_16.png) [ ติดตั้ง Gulp.js](./gulpjs/setup_gulp.md)
 
-### [less.css](https://lesscss.org/)
+#### [less.css](https://lesscss.org/)
 --- 
 ### GitLab 
   - https://monsterconnect.co.th/gitlab/ (ภาษาไทย)
@@ -24,9 +23,14 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 
 --- 
 ### Node.JS EcoSystem 
-##### ![](./_images/circle_red_16.png) [Migrate Bower To YARN!!](./nodejs/packages/bower_to_yarn.md)
+##### NPM Documentation
+- https://docs.npmjs.com/
+ 
 
-##### Nodejs : Debugger  
+##### How To :
+-  ![](./_images/circle_red_16.png) [Migrate Bower To YARN!!](./nodejs/packages/bower_to_yarn.md)
+
+##### Nodejs Documentation : Debugger  
 - https://nodejs.org/dist/latest/docs/api/debugger.html
 
 
@@ -43,7 +47,8 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 
 
 ---
-###  K8S  - Kubernetes
+###Docker and Kerbunetes
+#####  K8S  - Kubernetes
   - Main Site : https://kubernetes.io/
   - kind k8s  - https://kind.sigs.k8s.io/
   - ติดตั้ง Kubernetes บน Ubuntu 18.04
@@ -52,7 +57,7 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
     - https://www.jittagornp.me/blog/install-kubernetes-dashboard/?series=k8s
 
 
-### K3s - Lightweight Kubernetes
+##### K3s - Lightweight Kubernetes
 - K3S - https://docs.k3s.io/
 - Setup K3D: K3s บน Docker รวดเร็วดั่งติดปีก
   - https://youtu.be/dRUEwnq-xxM
@@ -60,15 +65,13 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 - การใช้ K3 เพื่อเรียกใช้คลัสเตอร์ Kubernetes บนเครื่องพัฒนาของคุณ
   - https://technoglitz.com/thailand/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-k3-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%84%E0%B8%A5/
 
-### Docker 
+##### Docker 
   - https://www.docker.com/get-started/
   - บันทึกนักพัฒนา: Docker Container 101 แล้วเราจะคิดถึงนายนะ WAMP, XAMPP, … (2018)
     - https://puuga.medium.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-docker-conntainer-101-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B0-wamp-xampp-e4c4bbf869b1
     - ![](./_images/circle_red_16.png)[ทดลองทำตาม  LabDocker-1](./docker/labs01_lampp.md)
 
-
----
-### Rancher Desktop 
+##### Rancher Desktop 
 -  Main Site : https://rancherdesktop.io/
 -  Rancher Desktop คืออะไร 
    -  https://blog.openlandscape.cloud/what-is-rancher
@@ -83,13 +86,14 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
   - https://techviewleo.com/run-kubernetes-on-windows-using-rancher-desktop/
   
 ---
-### WSL2 
+### Linux on Windows 
+###### WSL2 
 - WSL =  Windows Subsystem for Linux
 - WSL Guide  - https://github.com/mikeroyal/WSL-Guide 
  
 --- 
-### Setup Windows Server 
-#### On Google Cloud Plateform 
+#### Setup Windows Server 
+##### Setup Windows Server  On Google Cloud Plateform (GCP)
   - Google Cloud Create and manage Windows Server VMs
     - https://cloud.google.com/compute/docs/instances/windows/creating-managing-windows-instances
     - https://cloud.google.com/compute/docs/images/os-details#windows_server
@@ -99,11 +103,11 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
     - https://www.websiteplanet.com/th/blog/google-cloud-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%88%E0%B8%B0%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B9%88/
   - Create VM Windows Server > On Google Cloud 
     - https://cloud.google.com/compute/docs/create-windows-server-vm-instance
-#### On Amazon AWS 
+##### On Amazon AWS 
     - Step 1: Launch a Windows Server Amazon EC2 instance
       - https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-windows-launch-instance.html
 
-### Cloud Hosting
+##### Cloud Hosting
 -  Linux - https://cloud.z.com/th/
 -  de.co.th
    -  cloud host -  https://de.co.th/cloud-hosting
@@ -112,10 +116,9 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 - moveup cloud price 
   - ราคาถูก - https://www.moveupcloud.com/vps-hdd/
 
-### windows server download eval
+##### windows server download eval
   - download and azue - https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
-***
-### Certificate Server On Windows 
+##### Setup Certificate Server On Windows 
   - Setup Certificate Server (Standalone)  on Winodws Server 
     - https://thesecmaster.com/step-by-step-procedure-to-set-up-a-standalone-root-ca-on-windows-server/
   - Difference Standalone Cert Auth  vs Enterprise  Cert Auth 
@@ -125,28 +128,28 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
   - Request Certificate from Web IIS  ( https://<server-ca>/certsrv )
     - https://learn.microsoft.com/en-us/system-center/scom/obtain-certificate-windows-server-and-operations-manager?view=sc-om-2022&tabs=Enterp%2CEnter
 *** 
-## การใช้งาน MarkDown 
+#### การใช้งาน MarkDown 
 - ![](./_images/circle_red_16.png) [การใช้งาน Markdown](markdown_using.md)
 - ![](./_images/circle_red_16.png) [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
 
 
-### ClientSide  > Design Tools
+##### ClientSide  > Design Tools
 - Figma
   https://blog.skooldio.com/figma-ui-design-tool/
 
-##  SaSS 
+####  SaSS 
   ![](./_images/circle_red_16.png) [SASS package](./css/sass.md)
 
-## Package Maneger 
+#### Package Maneger 
 ![](./_images/circle_red_16.png) [Package manager Chocolatey](./packagemanger/chocolatey_pm.md)
 
-##  Infrastructure as Code (IoC)
+###  Infrastructure as Code (IoC)
 
 - ![](./_images/circle_red_16.png) [Docker](./infra_as_code/Docker.md)
 -  Puppet  รออ่าน 
 -  TerraForm - รออ่าน
 
-## WAMP LAMP Nginx
+### WAMP LAMP Nginx
 - XAMPP - 
   - Site:  https://www.apachefriends.org/
   - Download  : https://www.apachefriends.org/download.html
@@ -160,7 +163,7 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
   - Site - https://httpd.apache.org/
   - Download - https://httpd.apache.org/download.cgi
 
-## Database & Tools
+### Database & Tools
 - MySQL -  https://www.mysql.com/
 - MariaDB - https://mariadb.org/
   - MariaDB Sponsor - https://mariadb.org/donate/#corporate-sponsorships
@@ -168,19 +171,24 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 - PostgreSQL - https://www.postgresql.org/
 - phpMyAdmin - https://www.phpmyadmin.net/
   
-## Mobile Developement Tools
+### Mobile Developement Tools
   - Android Studio - https://developer.android.com/studio
   - XCode - https://developer.apple.com/xcode/
 
-## Developer Editor 
+### Developer Editor 
 - vscode - https://code.visualstudio.com/
 - notepad++ - https://code.visualstudio.com/
 - Sublime Text - https://www.sublimetext.com/
 
   
-##### version control 
+### version control 
 - Git  - https://git-scm.com/ 
-  - Tutorial from w3schools  - https://www.w3schools.com/git/
+  - Tutorial from w3schools  - https://www.w3schools.com/git/ 
+- Git : Push Pull ข้าม Folder 
+  - https://stackoverflow.com/questions/3402599/how-do-you-merge-two-git-branches-that-are-in-different-local-repos-folders?fbclid=IwAR3WR2QiQ9ErNgE_789IZOvzWPMcANNy5hDhg3QFU5L-abVg7jJe6plngVU
+- Setup and install GitLab
+  - https://about.gitlab.com/install/
+  
 
 
 #### Linux  
@@ -287,14 +295,6 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 - List All Group - https://apt.etda.or.th/cgi-bin/listgroups.cgi
 - Threat Group Tools list - https://apt.etda.or.th/cgi-bin/listtools.cgi
 
-## version control 
-- Git  - https://git-scm.com/ 
-  - Tutorial from w3schools  - https://www.w3schools.com/git/
-- Git : Push Pull ข้าม Folder 
-  - https://stackoverflow.com/questions/3402599/how-do-you-merge-two-git-branches-that-are-in-different-local-repos-folders?fbclid=IwAR3WR2QiQ9ErNgE_789IZOvzWPMcANNy5hDhg3QFU5L-abVg7jJe6plngVU
-- Setup and install GitLab
-  - https://about.gitlab.com/install/
-  
 ***
 #### Vulnerabilities Scanner (ลิงค์ภายนอก)
 - ![](./_images/circle_red_16.png) [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner.md)
@@ -322,22 +322,23 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 --- 
 
 
+### MarkDown and RST 
 
-#### ![](./_images/circle_red_16.png) [GitHub Document](./github/github_doc.md)
-
+##### ![](./_images/circle_red_16.png) [GitHub Document](./github/github_doc.md)
 
 ##### (MD)Markdown Syntax 
 -  Markdown - Tutorials
   - https://www.w3schools.io/file/markdown-introduction/
   - List  - https://www.w3schools.io/file/markdown-list/
-##### rst (reStructuredText ) (คล้าย markdown แต่ซับซ้อนกว่า)
+##### RST File (reStructuredText ) 
+> คล้าย markdown แต่ซับซ้อนกว่า
  -  Markdown vs reStructured Text - https://nikhilakki.in/markdown-vs-restructured-text
  - reStructuredText Primer - https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html?fbclid=IwAR0OP5JY07-2B56BtuwSuwkqiNwemPG8ZjpwA8U5kiFCoPyIEH3qKkkDN4A
  - Markdown and reStructuredText - https://gist.github.com/dupuy/1855764?fbclid=IwAR1w2EA1rZETYoAFqMrINlBfaNtboJ96IoCj_T4R-5_duQ2fSX_MoHHer-U
  - [Test RST - rst_test01](./rst/rst_test01.rst)
 
 ---
-####  Generator 
+###  Generator 
 - QRCode Generator 
   - https://www.the-qrcode-generator.com/
 - Random Number Generator 
