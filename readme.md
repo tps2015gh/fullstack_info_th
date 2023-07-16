@@ -12,6 +12,11 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 ##### Front-End Developer 
 ![](./_images/circle_red_16.png) [ ติดตั้ง Gulp.js](./gulpjs/setup_gulp.md)
 
+#### ![](./_images/circle_red_16.png) [angularjs my Lab test](./angularjs/labs/index.html)
+  - [Topic](./angularjs/lab1_angularjs.md)
+
+
+
 #### [less.css](https://lesscss.org/)
 --- 
 ### GitLab 
