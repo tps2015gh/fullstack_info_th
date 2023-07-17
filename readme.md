@@ -7,13 +7,15 @@
 ----
 #### เขียนโปรแกรม/Progamming/Coding
 javascript,typescript,php,go,python,markdown,dart,powershell
-##### ![](./_images/circle_red_16.png) [Dev,Coding > Programming Language](./dev/dev_language.md) 
+##### :open_file_folder:[Dev,Coding > Programming Language](./dev/dev_language.md) 
 
 ##### Front-End Developer 
-![](./_images/circle_red_16.png) [ ติดตั้ง Gulp.js](./gulpjs/setup_gulp.md)
+:page_with_curl: [ Gulp Readme](./gulpjs/readme.md) 
+:o::x:  [ ติดตั้ง Gulp.js](./gulpjs/lab1/setup_gulp.md) 
 
-#### ![](./_images/circle_red_16.png) [angularjs my Lab test](./angularjs/labs/index.html)
-  - [Topic](./angularjs/lab1_angularjs.md)
+
+####  :o: [angularjs my Lab test](./angularjs/labs/index.html) 
+  - [Topic](./angularjs/lab1_angularjs.md) :o:
 
 
 
