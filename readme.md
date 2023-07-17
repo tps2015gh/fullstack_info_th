@@ -1,11 +1,10 @@
- 
-##### tps2015gh/fullstack_info_th 
+
+##### :house: [tps2015gh/fullstack_info_th](./readme.md)
 - (last update 2566-07-17-1159)(:thailand:)
 
-
-----
-#### เขียนโปรแกรม/Progamming/Coding
-javascript,typescript,php,go,python,markdown,dart,powershell
+---- 
+####  :open_file_folder:  เขียนโปรแกรม/Progamming/Coding
+> javascript,typescript,php,go,python,markdown,dart,powershell
 ##### :open_file_folder:[Dev,Coding > Programming Language](./dev/dev_language.md) 
 
 ##### Front-End Developer 
