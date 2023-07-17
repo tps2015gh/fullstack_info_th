@@ -10,21 +10,25 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 ##### :open_file_folder:[Dev,Coding > Programming Language](./dev/dev_language.md) 
 
 ##### Front-End Developer 
-:page_with_curl: [ Gulp Readme](./gulpjs/readme.md) 
-:o::x:  [ ติดตั้ง Gulp.js](./gulpjs/lab1/setup_gulp.md) 
+- :page_with_curl: [ Gulp Readme](./gulpjs/readme.md) 
+- :o::x:  [ ติดตั้ง Gulp.js](./gulpjs/lab1/setup_gulp.md) 
 
 
-####  :o: [angularjs my Lab test](./angularjs/labs/index.html) 
-  - [Topic](./angularjs/lab1_angularjs.md) :o:
+####   [angularjs my Lab test](./angularjs/labs/index.html)  :o:
+  - [Lab1 angular.js](./angularjs/lab1_angularjs.md) :o:
 
 
 
-#### [less.css](https://lesscss.org/)
+#### [less.css](https://lesscss.org/) :link:
+- เรียนรู้ css less js 
+  - https://www.teeneeweb.com/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89-css-less-%E0%B9%83%E0%B8%99-10-%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5/
+- สอนวิธีเขียน CSS3 ง่ายๆ ด้วย LESS
+  - https://medium.com/siamhtml/%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-css3-%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-less-2a5ab5e14820
 --- 
-### GitLab 
+### GitLab :link:
   - https://monsterconnect.co.th/gitlab/ (ภาษาไทย)
 
-### CI/CD  
+### CI/CD  :link:
   - https://www.weave.works/blog/cicd-for-kubernetes-what-you-need-to-know
   - https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/
 
