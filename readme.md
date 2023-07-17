@@ -1,7 +1,6 @@
  
 ##### tps2015gh/fullstack_info_th 
-===============================
-(last update 2566-07-14-1035)(:thailand:)
+- (last update 2566-07-17-1159)(:thailand:)
 
 
 ----
