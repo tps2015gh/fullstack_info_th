@@ -12,9 +12,13 @@
 - :o::x:  [ ติดตั้ง Gulp.js](./gulpjs/lab1/setup_gulp.md) 
 
 
-####   [angularjs my Lab test](./angularjs/labs/index.html)  :o:
+####   [AngularJS my Lab test](./angularjs/labs/index.html)  :o:
   - [Lab1 angular.js](./angularjs/lab1_angularjs.md) :o:
 
+#### UI-Router for AngularJS :link:
+    -  https://ui-router.github.io/ng1/tutorial/helloworld
+    -  npm install --save @uirouter/angularjs
+    -  use in button ui-sref="[state]"
 
 
 #### [less.css](https://lesscss.org/) :link:
