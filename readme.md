@@ -359,5 +359,26 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 - phasephase generator 
   - https://codebeautify.org/generate-random-string
 
+---
+#### Hashing , File Integrity 
+การหาค่า  Hashing บน windows
 
+```powershell
+(Get-FileHash .\files.zip -Algorithm SHA256).Hash
+```
+
+การสร้าง hash file 
+```powershell
+ (Get-FileHash .\files.zip -Algorithm SHA256).Hash > .\files.zip.hash.txt
+``` 
+
+การตรวจสอบ Hashing บน windows
+```powershell
+$eq = (Get-FileHash .\files.zip -Algorithm SHA256).Hash -eq  "49E229DAEA121E88BD3489FEF91295CDC3D7343AF88980842F9479C238002052"
+if($eq){
+	echo "SAME Hash"; 
+}else{
+	echo "Not Same Hash" ;
+}
+```
 
