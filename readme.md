@@ -390,7 +390,8 @@ if($eq){
    Use F5 to Run Script 
 - Concat string in powershell 
   - https://stackoverflow.com/questions/15113413/how-do-i-concatenate-strings-and-variables-in-powershell
-  - 
+- Yes No Confirm  
+  - https://stackoverflow.com/questions/24649019/how-to-use-confirm-in-powershell
 
 --- 
 End of ReadMe
