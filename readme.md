@@ -382,3 +382,11 @@ if($eq){
 }
 ```
 
+### How To Debug PowerShell 
+- How to Debug Scripts in Windows PowerShell ISE?
+  - https://linuxhint.com/debug-scripts-in-windows-powershell-ise/
+- Concat string in powershell 
+  - https://stackoverflow.com/questions/15113413/how-do-i-concatenate-strings-and-variables-in-powershell
+  - 
+
+
