@@ -1,6 +1,6 @@
 
 ##### :house: [tps2015gh/fullstack_info_th](./readme.md)
-- (last update 2566-07-17-1159)(:thailand:)
+- (last update 2566-07-27-1137)(:thailand:)
 
 ---- 
 ####  :open_file_folder:  เขียนโปรแกรม/Progamming/Coding
@@ -382,11 +382,17 @@ if($eq){
 }
 ```
 
+--- 
 ### How To Debug PowerShell 
 - How to Debug Scripts in Windows PowerShell ISE?
   - https://linuxhint.com/debug-scripts-in-windows-powershell-ise/
+  - > Use F9 to Toggle Breakpoint 
+   Use F5 to Run Script 
 - Concat string in powershell 
   - https://stackoverflow.com/questions/15113413/how-do-i-concatenate-strings-and-variables-in-powershell
   - 
 
+--- 
+End of ReadMe
 
+---
