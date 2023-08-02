@@ -1,0 +1,50 @@
+.panel-info { 
+    background-color:lightyellow;
+    border:2px solid green;
+    padding:5px;  
+}
+.wi-400px{
+    width:400px;
+}
+.wi-600px{
+    width:600px;
+}
+.wi-800px{
+    width:800px;
+}
+.panel-app { 
+    background-color:rgb(193, 226, 226);
+    border:2px solid green;
+    padding:5px;  
+    margin-top: 20px;
+}
+.text-red{
+    color:red;
+}
+.text-hili {
+    color:red; 
+    background-color:yellow;
+    padding:4px;
+    border:1px solid green;
+}
+table.table1 {
+    background-color:aqua;border:1px solid black;
+    margin-top: 6px;
+    width:400px;
+}
+tr.table1hd >td {
+    padding:4px;
+    background-color:navy;
+    color:white;
+}
+tr.table1row >td {
+    padding:4px;
+    background-color: white;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+

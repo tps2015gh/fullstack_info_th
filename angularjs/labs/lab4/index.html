@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <link rel="stylesheet" href="../style1.css">
+</head>
+<body  ng-app="myApp" >
+    <div class="panel-info wi-600px"  ng-controller="myCtrl"  > 
+    this code from  
+    <ul>
+        <li> https://www.w3schools.com/angular/ </li>
+        <li ng-repeat="x in getRefUrl()"><a href='{{x}}'>{{x}}</a></li>
+    </ul>
+        
+    <br> 
+    use lib from url  
+    https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js
+    <br>
+    <h3>Learn Factory (Share data among multiple controller)</h3>
+    </div>
+ 
+    <div ng-controller="myCtrl" class="panel-app wi-800px" >
+        testdata = {{testdata}}
+        <br> 
+        test scalar = {{123}}
+        <br>
+        factory  = {{fromFactory()}}
+        <br>
+        <hr>
+
+        factory getCounter() from variable counter2 = <h3 class="text-hili" >{{get_count()}}</h3>
+        <button ng-click="inc_count()"> Incrment Counter in Factory +1 </button>
+    
+    </div>
+    <div ng-controller="myCtrl2" class="panel-app wi-800px" >
+        testdata = {{testdata}}
+        <br> 
+        test scalar = {{123}}
+        <br>
+        factory  = {{fromFactory()}}
+        <br>
+        <hr>
+
+        factory getCounter() from variable counter2 = <h3 class="text-hili" >{{get_count()}}</h3>
+        <button ng-click="inc_count()"> Incrment Counter in Factory +1 </button>
+
+        <hr> set text value in factory : 
+        <br>
+        <div class='text-hili'>{{fromFactory()}}</div> 
+        <input type="text"   ng-model="new_msg" size="80"> 
+        <br>
+        <button ng-click="set_factory_text()" class="button"> set Text in Factory Instance </button>
+
+    </div>        
+</body>
+<script src="./app1.js"></script>
+<script src="./factory.js"></script>
+<script src="./controller.js"></script>
+<script src="./controller2.js"></script>
+</html>

@@ -1,29 +1,67 @@
- 
-####tps2015gh/fullstack_info_th
-===============================
-(last update 2566-07-09-1909)
 
-:thailand:
+##### :house: [tps2015gh/fullstack_info_th](./readme.md)
+- (last update 2566-07-27-1137)(:thailand:)
 
-----
-เขียนโปรแกรม 
-javascript,typescript,php,go,python,markdown,dart,powershell
-### ![](./_images/circle_red_16.png) [Dev,Coding > Programming Language](./dev/dev_language.md) 
+---- 
+####  :open_file_folder:  เขียนโปรแกรม/Progamming/Coding
+> javascript,typescript,php,go,python,markdown,dart,powershell
+##### :open_file_folder:[Dev,Coding > Programming Language](./dev/dev_language.md) 
 
-#### Front-End Developer 
-![](./_images/circle_red_16.png) [ ติดตั้ง Gulp.js](./gulpjs/setup_gulp.md)
+##### Front-End Developer 
+- :page_with_curl: [ Gulp Readme](./gulpjs/readme.md) 
+- :o::x:  [ ติดตั้ง Gulp.js](./gulpjs/lab1/setup_gulp.md) 
 
-### [less.css](https://lesscss.org/)
+
+####   [AngularJS my Lab test](./angularjs/labs/index.html)  :o:
+  - [Lab1 angular.js](./angularjs/lab1_angularjs.md) :o:
+
+#### UI-Router for AngularJS :link:
+    -  https://ui-router.github.io/ng1/tutorial/helloworld
+    -  npm install --save @uirouter/angularjs
+    -  use in button ui-sref="[state]"
+
+
+#### [less.css](https://lesscss.org/) :link:
+- เรียนรู้ css less js 
+  - https://www.teeneeweb.com/%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89-css-less-%E0%B9%83%E0%B8%99-10-%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5/
+- สอนวิธีเขียน CSS3 ง่ายๆ ด้วย LESS
+  - https://medium.com/siamhtml/%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-css3-%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%86-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-less-2a5ab5e14820
 --- 
-### GitLab 
+### GitLab :link:
   - https://monsterconnect.co.th/gitlab/ (ภาษาไทย)
 
-### CI/CD  
+### CI/CD  :link:
   - https://www.weave.works/blog/cicd-for-kubernetes-what-you-need-to-know
   - https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/
 
 --- 
-###  K8S  - Kubernetes
+### Node.JS EcoSystem 
+##### NPM Documentation
+- https://docs.npmjs.com/
+ 
+
+##### How To :
+-  ![](./_images/circle_red_16.png) [Migrate Bower To YARN!!](./nodejs/packages/bower_to_yarn.md)
+
+##### Nodejs Documentation : Debugger  
+- https://nodejs.org/dist/latest/docs/api/debugger.html
+
+
+##### Nodejs : Corepack 
+https://nodejs.org/dist/latest/docs/api/corepack.html
+> Corepack is an experimental tool to help with managing versions of your package managers. It exposes binary proxies for each supported package manager that, when called, will identify whatever package manager is configured for the current project, transparently install it if needed, and finally run it without requiring explicit user interactions.
+  
+##### yarn 
+- https://yarnpkg.com/
+- get start - https://yarnpkg.com/getting-started
+##### vite.js 
+- https://vitejs.dev/
+- get start - https://vitejs.dev/guide/
+
+
+---
+###Docker and Kerbunetes
+#####  K8S  - Kubernetes
   - Main Site : https://kubernetes.io/
   - kind k8s  - https://kind.sigs.k8s.io/
   - ติดตั้ง Kubernetes บน Ubuntu 18.04
@@ -32,7 +70,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
     - https://www.jittagornp.me/blog/install-kubernetes-dashboard/?series=k8s
 
 
-### K3s - Lightweight Kubernetes
+##### K3s - Lightweight Kubernetes
 - K3S - https://docs.k3s.io/
 - Setup K3D: K3s บน Docker รวดเร็วดั่งติดปีก
   - https://youtu.be/dRUEwnq-xxM
@@ -40,7 +78,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - การใช้ K3 เพื่อเรียกใช้คลัสเตอร์ Kubernetes บนเครื่องพัฒนาของคุณ
   - https://technoglitz.com/thailand/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-k3-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%84%E0%B8%A5/
 
-### Docker 
+##### Docker 
   - https://www.docker.com/get-started/
   - บันทึกนักพัฒนา: Docker Container 101 แล้วเราจะคิดถึงนายนะ WAMP, XAMPP, … (2018)
     - https://puuga.medium.com/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-docker-conntainer-101-%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B0-wamp-xampp-e4c4bbf869b1
@@ -57,9 +95,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   
 
 
-
----
-### Rancher Desktop 
+##### Rancher Desktop 
 -  Main Site : https://rancherdesktop.io/
 -  Rancher Desktop คืออะไร 
    -  https://blog.openlandscape.cloud/what-is-rancher
@@ -74,13 +110,14 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - https://techviewleo.com/run-kubernetes-on-windows-using-rancher-desktop/
   
 ---
-### WSL2 
+### Linux on Windows 
+###### WSL2 
 - WSL =  Windows Subsystem for Linux
 - WSL Guide  - https://github.com/mikeroyal/WSL-Guide 
  
 --- 
-### Setup Windows Server 
-#### On Google Cloud Plateform 
+#### Setup Windows Server 
+##### Setup Windows Server  On Google Cloud Plateform (GCP)
   - Google Cloud Create and manage Windows Server VMs
     - https://cloud.google.com/compute/docs/instances/windows/creating-managing-windows-instances
     - https://cloud.google.com/compute/docs/images/os-details#windows_server
@@ -90,11 +127,11 @@ javascript,typescript,php,go,python,markdown,dart,powershell
     - https://www.websiteplanet.com/th/blog/google-cloud-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%88%E0%B8%B0%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B9%88/
   - Create VM Windows Server > On Google Cloud 
     - https://cloud.google.com/compute/docs/create-windows-server-vm-instance
-#### On Amazon AWS 
+##### On Amazon AWS 
     - Step 1: Launch a Windows Server Amazon EC2 instance
       - https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-windows-launch-instance.html
 
-### Cloud Hosting
+##### Cloud Hosting
 -  Linux - https://cloud.z.com/th/
 -  de.co.th
    -  cloud host -  https://de.co.th/cloud-hosting
@@ -103,10 +140,9 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - moveup cloud price 
   - ราคาถูก - https://www.moveupcloud.com/vps-hdd/
 
-### windows server download eval
+##### windows server download eval
   - download and azue - https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
-***
-### Certificate Server On Windows 
+##### Setup Certificate Server On Windows 
   - Setup Certificate Server (Standalone)  on Winodws Server 
     - https://thesecmaster.com/step-by-step-procedure-to-set-up-a-standalone-root-ca-on-windows-server/
   - Difference Standalone Cert Auth  vs Enterprise  Cert Auth 
@@ -116,28 +152,28 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - Request Certificate from Web IIS  ( https://<server-ca>/certsrv )
     - https://learn.microsoft.com/en-us/system-center/scom/obtain-certificate-windows-server-and-operations-manager?view=sc-om-2022&tabs=Enterp%2CEnter
 *** 
-## การใช้งาน MarkDown 
+#### การใช้งาน MarkDown 
 - ![](./_images/circle_red_16.png) [การใช้งาน Markdown](markdown_using.md)
 - ![](./_images/circle_red_16.png) [สรุป Syntax ของ Markdown](markdown_syntax_brief.md)
 
 
-### ClientSide  > Design Tools
+##### ClientSide  > Design Tools
 - Figma
   https://blog.skooldio.com/figma-ui-design-tool/
 
-##  SaSS 
+####  SaSS 
   ![](./_images/circle_red_16.png) [SASS package](./css/sass.md)
 
-## Package Maneger 
+#### Package Maneger 
 ![](./_images/circle_red_16.png) [Package manager Chocolatey](./packagemanger/chocolatey_pm.md)
 
-##  Infrastructure as Code (IoC)
+###  Infrastructure as Code (IoC)
 
 - ![](./_images/circle_red_16.png) [Docker](./infra_as_code/Docker.md)
 -  Puppet  รออ่าน 
 -  TerraForm - รออ่าน
 
-## WAMP LAMP Nginx
+### WAMP LAMP Nginx
 - XAMPP - 
   - Site:  https://www.apachefriends.org/
   - Download  : https://www.apachefriends.org/download.html
@@ -151,7 +187,7 @@ javascript,typescript,php,go,python,markdown,dart,powershell
   - Site - https://httpd.apache.org/
   - Download - https://httpd.apache.org/download.cgi
 
-## Database & Tools
+### Database & Tools
 - MySQL -  https://www.mysql.com/
 - MariaDB - https://mariadb.org/
   - MariaDB Sponsor - https://mariadb.org/donate/#corporate-sponsorships
@@ -159,19 +195,24 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - PostgreSQL - https://www.postgresql.org/
 - phpMyAdmin - https://www.phpmyadmin.net/
   
-## Mobile Developement Tools
+### Mobile Developement Tools
   - Android Studio - https://developer.android.com/studio
   - XCode - https://developer.apple.com/xcode/
 
-## Developer Editor 
+### Developer Editor 
 - vscode - https://code.visualstudio.com/
 - notepad++ - https://code.visualstudio.com/
 - Sublime Text - https://www.sublimetext.com/
 
   
-##### version control 
+### version control 
 - Git  - https://git-scm.com/ 
-  - Tutorial from w3schools  - https://www.w3schools.com/git/
+  - Tutorial from w3schools  - https://www.w3schools.com/git/ 
+- Git : Push Pull ข้าม Folder 
+  - https://stackoverflow.com/questions/3402599/how-do-you-merge-two-git-branches-that-are-in-different-local-repos-folders?fbclid=IwAR3WR2QiQ9ErNgE_789IZOvzWPMcANNy5hDhg3QFU5L-abVg7jJe6plngVU
+- Setup and install GitLab
+  - https://about.gitlab.com/install/
+  
 
 
 #### Linux  
@@ -278,14 +319,6 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 - List All Group - https://apt.etda.or.th/cgi-bin/listgroups.cgi
 - Threat Group Tools list - https://apt.etda.or.th/cgi-bin/listtools.cgi
 
-## version control 
-- Git  - https://git-scm.com/ 
-  - Tutorial from w3schools  - https://www.w3schools.com/git/
-- Git : Push Pull ข้าม Folder 
-  - https://stackoverflow.com/questions/3402599/how-do-you-merge-two-git-branches-that-are-in-different-local-repos-folders?fbclid=IwAR3WR2QiQ9ErNgE_789IZOvzWPMcANNy5hDhg3QFU5L-abVg7jJe6plngVU
-- Setup and install GitLab
-  - https://about.gitlab.com/install/
-  
 ***
 #### Vulnerabilities Scanner (ลิงค์ภายนอก)
 - ![](./_images/circle_red_16.png) [SQL Injection Scanner ต่างๆ](./vul_scanner/sql_injection_scanner.md)
@@ -310,78 +343,26 @@ javascript,typescript,php,go,python,markdown,dart,powershell
 ## Excel Advance 
 - ![](./_images/circle_red_16.png)  [Excel Data Processing](./excel/excel_with_data.md)
 
+--- 
 
-***
-### Bower To YARN !!! 
-- Bower - https://bower.io/
-  - > ...psst! While Bower is maintained, we recommend using Yarn and Vite for front-end projects. Read how to migrate!
-- https://bower.io/blog/2017/how-to-migrate-away-from-bower/
 
-- (from page) psst! While Bower is maintained, we recommend using Yarn and Vite for front-end projects. Read how to migrate!
-- (from page) I focused on this for a while and the result is pleasing: Yarn 1.x is able to install most of Bower packages. But there’s a catch: it cannot resolve Bower dependencies.
-- (from page) หลังจากติดั้ง yarn 1.x แล้ว ให้ติดตั้ ว bower-away  
-- after install Yarn 1.x , install bower-away  https://github.com/sheerun/bower-away
-  - yarn global add bower-away # or "npm install -g bower-away"
-bower-away # listen and repeat!
-##### Migrate to yarn (under developement)
- 1. npm i -g corepack
- 2. corepack enable
- 3. corepack prepare yarn@stable --activate
- 4. yarn set version stable
+### MarkDown and RST 
 
-##### Install Yarn for Migrate bower (success)
-```text
- nvm list
- nvm install 18.16.0
- nvm use 18.16.0
- npm install -g yarn
- npm update
- yarn -v
-
-```
-
-#####change yarn to version 1.x
-
-```text
->1.22.19
-> #ต้องเปลี่ยน yarn เป็น version 1.x ก่อนด้วย 
->ตั้งค่า version เก่า 1.x
-yarn set version stable
-yarn -v 
-> 3.6.0
-yarn set version 1.22.19
-yarn -v
-```
-
-##(last update 2566-06-22-1712)
-
-##### Corepack 
-https://nodejs.org/dist/latest/docs/api/corepack.html
-  
-##### yarn 
-- https://yarnpkg.com/
-- get start - https://yarnpkg.com/getting-started
-##### vite.js 
-- https://vitejs.dev/
-- get start - https://vitejs.dev/guide/
-
-***
-
-#### ![](./_images/circle_red_16.png) [GitHub Document](./github/github_doc.md)
-
+##### ![](./_images/circle_red_16.png) [GitHub Document](./github/github_doc.md)
 
 ##### (MD)Markdown Syntax 
 -  Markdown - Tutorials
   - https://www.w3schools.io/file/markdown-introduction/
   - List  - https://www.w3schools.io/file/markdown-list/
-##### rst (reStructuredText ) (คล้าย markdown แต่ซับซ้อนกว่า)
+##### RST File (reStructuredText ) 
+> คล้าย markdown แต่ซับซ้อนกว่า
  -  Markdown vs reStructured Text - https://nikhilakki.in/markdown-vs-restructured-text
  - reStructuredText Primer - https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html?fbclid=IwAR0OP5JY07-2B56BtuwSuwkqiNwemPG8ZjpwA8U5kiFCoPyIEH3qKkkDN4A
  - Markdown and reStructuredText - https://gist.github.com/dupuy/1855764?fbclid=IwAR1w2EA1rZETYoAFqMrINlBfaNtboJ96IoCj_T4R-5_duQ2fSX_MoHHer-U
  - [Test RST - rst_test01](./rst/rst_test01.rst)
 
 ---
-####  Generator 
+###  Generator 
 - QRCode Generator 
   - https://www.the-qrcode-generator.com/
 - Random Number Generator 
@@ -389,5 +370,41 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 - phasephase generator 
   - https://codebeautify.org/generate-random-string
 
+---
+#### Hashing , File Integrity 
+การหาค่า  Hashing บน windows
 
+```powershell
+(Get-FileHash .\files.zip -Algorithm SHA256).Hash
+```
 
+การสร้าง hash file 
+```powershell
+ (Get-FileHash .\files.zip -Algorithm SHA256).Hash > .\files.zip.hash.txt
+``` 
+
+การตรวจสอบ Hashing บน windows
+```powershell
+$eq = (Get-FileHash .\files.zip -Algorithm SHA256).Hash -eq  "49E229DAEA121E88BD3489FEF91295CDC3D7343AF88980842F9479C238002052"
+if($eq){
+	echo "SAME Hash"; 
+}else{
+	echo "Not Same Hash" ;
+}
+```
+
+--- 
+### How To Debug PowerShell 
+- How to Debug Scripts in Windows PowerShell ISE?
+  - https://linuxhint.com/debug-scripts-in-windows-powershell-ise/
+  - > Use F9 to Toggle Breakpoint 
+   Use F5 to Run Script 
+- Concat string in powershell 
+  - https://stackoverflow.com/questions/15113413/how-do-i-concatenate-strings-and-variables-in-powershell
+- Yes No Confirm  
+  - https://stackoverflow.com/questions/24649019/how-to-use-confirm-in-powershell
+
+--- 
+End of ReadMe
+
+---

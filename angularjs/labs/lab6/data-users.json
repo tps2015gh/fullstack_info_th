@@ -1,0 +1,25 @@
+[{
+    "id":1001,
+    "firstname":"firstname1",
+    "lastname":"lastname1" , 
+    "salary": 10000
+},
+{
+    "id":1012,
+    "firstname":"firstname2",
+    "lastname":"lastname2" , 
+    "salary": 10002
+},
+{
+    "id":1003,
+    "firstname":"firstname3",
+    "lastname":"lastname3" , 
+    "salary": 10003
+},
+{
+    "id":1004,
+    "firstname":"firstname4",
+    "lastname":"lastname4" , 
+    "salary": 10004
+}
+]
