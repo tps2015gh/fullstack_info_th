@@ -1,0 +1,13 @@
+# https://www.analyticsvidhya.com/blog/2022/06/writing-dockerfile-is-simple/#:~:text=Creating%20Image%20%26%20Container%20Using%20Docker%20file%E2%80%8A%E2%80%94%E2%80%8AExample%202,docker%20build%20.%203%203.%20Run%20Container%E2%80%8A%E2%80%94%E2%80%8Adocker%20run
+#==================================
+# docker build -t myhttpd:0.1
+#==================================
+
+
+#A simple web app served by hhtpd
+FROM httpd:2.4
+LABEL AUTHOR=user@example.com
+LABEL VERSION=0.1
+# COPY mypage.html /usr/local/apache2/htdocs/mypage.html
+#WORKDIR /usr/local/apache2
+COPY mypage.html htdocs/mypage.html

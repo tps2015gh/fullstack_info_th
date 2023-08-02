@@ -1,0 +1,3 @@
+service apache2 start
+service mysql start 
+mymysql_secure_installation

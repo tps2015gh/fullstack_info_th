@@ -1,0 +1,1 @@
+docker build . -t mydocker:0.1
