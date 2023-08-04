@@ -1,3 +1,3 @@
 service apache2 start
-service mysql start 
+service mariadb start 
 mysql_secure_installation
