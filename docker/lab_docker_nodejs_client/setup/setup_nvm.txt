@@ -1,0 +1,29 @@
+service apache2 start 
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+
+nvm install 18.1
+nvm list 
+nvm use 18.1
+
+
+cd /src
+
+node install -y npm 
+
+npm init
+npm install -g npm@latest
+
+npm install gulp -g 
+npm install gulp --save-dev 
+
+ npm install gulp-cli  -g
+ cat package.json 
+
+ touch gulpfile.js
+ gulp --tasks
+
+ls
+npm install 
+npm audit fix
+ 
