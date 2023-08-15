@@ -109,7 +109,15 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
   - https://www.youtube.com/watch?v=52SttORxVWo
 - Run Kubernetes on Windows 11/10 using Rancher Desktop
   - https://techviewleo.com/run-kubernetes-on-windows-using-rancher-desktop/
-  
+
+---
+### Linux Bash Shell  
+- Bash Script  
+  - https://www.javatpoint.com/bash
+- Bash Script Tutorial 
+  - https://www.w3schools.io/terminal/bash-tutorials/
+- Bash Assign Output of Shell Command To Variable
+  -  https://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-bash-assign-variable-command-output/
 ---
 ### Linux on Windows 
 ###### WSL2 
