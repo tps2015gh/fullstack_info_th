@@ -370,6 +370,50 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
  - Markdown and reStructuredText - https://gist.github.com/dupuy/1855764?fbclid=IwAR1w2EA1rZETYoAFqMrINlBfaNtboJ96IoCj_T4R-5_duQ2fSX_MoHHer-U
  - [Test RST - rst_test01](./rst/rst_test01.rst)
 
+--- 
+  
+### Windows 10/11/Server info : with Powerhell
+- Get Last Reboot time 
+  -  Get-CimInstance -ClassName win32_operatingsystem | select csname, lastbootuptime
+- Get Serial Number 
+  - Get-CimInstance -ClassName win32_operatingsystem | select csname, SerialNumber , Version
+- Get All 
+   - Get-CimInstance -ClassName win32_operatingsystem | select *
+     - TotalVirtualMemorySize
+     - BuildNumber
+     - TotalVisibleMemorySize
+     - Status
+     - CurrentTimeZone
+     - InstallDate
+     - FreePhysicalMemory
+     - LastBootUpTime
+     - LocalDateTime
+     - NumberOfProcesses
+     - NumberOfUsers
+     - BootDevice
+     - SystemDevice
+     - Debug
+     - EncryptionLevel
+     - Locale
+     - OSLanguage
+     - OSArchitecture
+     - SystemDirectory
+     - PortableOperatingSystem
+     - MUILanguages
+     - Caption
+     - Name
+     - Description
+     - SystemDrive
+     - SystemDirectory
+     - WindowsDirectory
+     - RegisteredUser
+ - List All Account 
+   - Get-CimInstance -ClassName Win32_Account
+   - Get-CimInstance -ClassName Win32_Account | select *
+ - Get Name  PrimaryOwnerName Domain  TotalPhysicalMemory Model     Manufacturer
+   -  Get-CimInstance -ClassName Win32_ComputerSystem
+   -  Model Maybe : Lenovo , DELL , VMWare or ELSE .
+  
 ---
 ###  Generator 
 - QRCode Generator 
