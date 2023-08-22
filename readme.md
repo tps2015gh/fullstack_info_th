@@ -61,6 +61,8 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 https://medium.com/@ohnemotive74/express-js-restful-api-mvc-part-1-94c85268928c
  - Express JS API (Part 2)  
  https://medium.com/@ohnemotive74/express-js-restful-api-mvc-part-2-28972364788ehttps://medium.com/@ohnemotive74/express-js-restful-api-mvc-part-2-28972364788e
+ - Building and structuring a Node.js MVC application
+  https://blog.logrocket.com/building-structuring-node-js-mvc-application/
 
 --- 
   
