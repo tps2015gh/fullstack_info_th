@@ -57,9 +57,13 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 
 ---
 ### JS Web Framework  
- - Express JS Restfull API MVC (part 11)
+ - Express JS Restfull API MVC (part 1)
 https://medium.com/@ohnemotive74/express-js-restful-api-mvc-part-1-94c85268928c
+ - Express JS API (Part 2)  
+ https://medium.com/@ohnemotive74/express-js-restful-api-mvc-part-2-28972364788ehttps://medium.com/@ohnemotive74/express-js-restful-api-mvc-part-2-28972364788e
+
 --- 
+  
 ### JS Build Tools 
 ##### vite.js 
   > Vite (French word for "quick", pronounced /vit/, like "veet") is a build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts:
