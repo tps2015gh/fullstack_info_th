@@ -1,4 +1,12 @@
 
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+
+<hr>
+ 
+<button class="btn btn-default"> test bootstrap button</button>
+
 ##### :house: [tps2015gh/fullstack_info_th](./readme.md)
 - (last update 2566-07-27-1137)(:thailand:)
 
@@ -6,6 +14,28 @@
 ####  :open_file_folder:  เขียนโปรแกรม/Progamming/Coding
 > javascript,typescript,php,go,python,markdown,dart,powershell
 ##### :open_file_folder:[Dev,Coding > Programming Language](./dev/dev_language.md) 
+
+----
+
+#### Bootstrap
+
+- add bootstrap to github 
+  https://forum.freecodecamp.org/t/including-bootstrap-source-files-github-project/602004
+
+
+---
+
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown button
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+  </div>
+</div>
+--- 
 
 ##### Front-End Developer 
 - :page_with_curl: [ Gulp Readme](./gulpjs/readme.md) 
