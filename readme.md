@@ -54,10 +54,20 @@ https://nodejs.org/dist/latest/docs/api/corepack.html
 ##### yarn 
 - https://yarnpkg.com/
 - get start - https://yarnpkg.com/getting-started
+
+---
+### JS Web Framework  
+ - Express JS Restfull API MVC (part 11)
+https://medium.com/@ohnemotive74/express-js-restful-api-mvc-part-1-94c85268928c
+--- 
+### JS Build Tools 
 ##### vite.js 
+  > Vite (French word for "quick", pronounced /vit/, like "veet") is a build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts:
+  > Build Tools น่าจะคล้าย webpack 
 - https://vitejs.dev/
 - get start - https://vitejs.dev/guide/
-
+##### Web Pack 
+  (รอเพิ่มเติม)
 
 ---
 ###Docker and Kerbunetes
